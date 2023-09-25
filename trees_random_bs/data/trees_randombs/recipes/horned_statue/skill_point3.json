@@ -1,0 +1,29 @@
+{
+  "type": "paraglider:statue_bargain",
+  "conditions": [
+    {
+      "type": "paraglider:stamina_vessel_enabled"
+    }
+  ],
+  "demands": {
+    "staminaVessels": 1,
+  "items": [
+      {
+        "ingredient": {
+          "item": "paraglider:spirit_orb"
+        },
+        "quantity": 7
+      }
+    ]
+  },
+  "offers": {
+    "staminaVessels": 1,
+    "items": [
+      {
+        "count": 1,
+        "item": "skilltree:wisdom_scroll"
+      }
+    ]
+  },
+  "owner": "paraglider:horned_statue"
+}
