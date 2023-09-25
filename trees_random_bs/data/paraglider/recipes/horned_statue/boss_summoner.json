@@ -12,7 +12,7 @@
         "ingredient": {
           "item": "paraglider:spirit_orb"
         },
-        "quantity": 7
+        "quantity": 2
       }
     ]
   },
@@ -21,7 +21,7 @@
     "items": [
       {
         "count": 1,
-        "item": "skilltree:wisdom_scroll"
+        "item": "apotheosis:boss_summoner"
       }
     ]
   },
