@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "modifier": {
+        "amount": 1.0,
+        "id": "fba11465-307b-427a-b3c5-69ecbbc49f57",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:blacksmith_defensive_6",
+    "skilltree:blacksmith_speed_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/blacksmith_defensive_1.png",
+  "id": "skilltree:blacksmith_defensive_5",
+  "isStartingPoint": false,
+  "positionX": -262.14682,
+  "positionY": -89.00986
+}

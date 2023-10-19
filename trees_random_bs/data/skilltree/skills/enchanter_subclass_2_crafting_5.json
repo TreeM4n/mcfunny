@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:experience_per_hour",
+      "modifier": {
+        "amount": 0.2,
+        "id": "9aba7cf3-cede-47e6-ae04-6dcc0739c672",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_subclass_special"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_subclass_2_crafting_1.png",
+  "id": "skilltree:enchanter_subclass_2_crafting_5",
+  "isStartingPoint": false,
+  "positionX": 238.92113,
+  "positionY": -349.78406
+}

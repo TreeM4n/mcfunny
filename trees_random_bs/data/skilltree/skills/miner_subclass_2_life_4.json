@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:maximum_life_per_equipped_jewelry",
+      "modifier": {
+        "amount": 1.0,
+        "id": "11ad02e1-d5c8-48fc-8392-cccf319211ae",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_subclass_2_life_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_subclass_2_life_1.png",
+  "id": "skilltree:miner_subclass_2_life_4",
+  "isStartingPoint": false,
+  "positionX": -299.9535,
+  "positionY": 322.0708
+}

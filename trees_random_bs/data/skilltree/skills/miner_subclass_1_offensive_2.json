@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modifier": {
+        "amount": 0.02,
+        "id": "935f0cf3-2bc6-46f6-84f0-999c81cc0cb2",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_subclass_1_offensive_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_subclass_1_offensive_1.png",
+  "id": "skilltree:miner_subclass_1_offensive_2",
+  "isStartingPoint": false,
+  "positionX": -383.87048,
+  "positionY": 72.70598
+}

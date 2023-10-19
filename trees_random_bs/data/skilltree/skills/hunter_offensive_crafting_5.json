@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_ranged_weapon_attack_speed",
+      "modifier": {
+        "amount": 0.04,
+        "id": "7fa89a46-19b2-4fc2-bce3-66b5f4c7605b",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:hunter_offensive_crafting_6"
+  ],
+  "iconTexture": "skilltree:textures/icons/hunter_offensive_crafting_1.png",
+  "id": "skilltree:hunter_offensive_crafting_5",
+  "isStartingPoint": false,
+  "positionX": 172.64749,
+  "positionY": 207.05713
+}

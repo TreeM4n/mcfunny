@@ -1,0 +1,36 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:damage_against_burning",
+      "modifier": {
+        "amount": 0.15,
+        "id": "c0abfa81-0032-45ea-9035-50fe5c475710",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    },
+    {
+      "attribute": "skilltree:chance_to_ignite",
+      "modifier": {
+        "amount": 0.15,
+        "id": "7b1b0f57-cc3e-4e27-8801-f38c49a97b57",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/class.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_subclass_1_offensive_1",
+    "skilltree:enchanter_subclass_1_crafting_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_subclass_1.png",
+  "id": "skilltree:enchanter_subclass_1",
+  "isStartingPoint": false,
+  "positionX": 345.35162,
+  "positionY": -31.994904
+}

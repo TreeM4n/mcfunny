@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:chance_to_retrieve_arrows",
+      "modifier": {
+        "amount": 0.05,
+        "id": "a06089be-4673-4457-b051-0459e286d3aa",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:hunter_crafting_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/hunter_crafting_1.png",
+  "id": "skilltree:hunter_crafting_2",
+  "isStartingPoint": false,
+  "positionX": 81.40338,
+  "positionY": 47.005203
+}

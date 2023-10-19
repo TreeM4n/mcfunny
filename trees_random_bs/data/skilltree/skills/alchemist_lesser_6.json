@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:brewed_potions_duration",
+      "modifier": {
+        "amount": 0.05,
+        "id": "2a0c039a-0dcd-434a-9519-4acd5a5619fc",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_mastery"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_lesser_1.png",
+  "id": "skilltree:alchemist_lesser_6",
+  "isStartingPoint": false,
+  "positionX": 0.0029907227,
+  "positionY": 375.52728
+}

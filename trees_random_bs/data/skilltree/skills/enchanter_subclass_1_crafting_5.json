@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_weapon_chance_to_ignite",
+      "modifier": {
+        "amount": 0.05,
+        "id": "e86ed726-4d34-45ef-bacb-d9421b83fd9e",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_subclass_special"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_subclass_1_crafting_1.png",
+  "id": "skilltree:enchanter_subclass_1_crafting_5",
+  "isStartingPoint": false,
+  "positionX": 422.38455,
+  "positionY": -31.992743
+}

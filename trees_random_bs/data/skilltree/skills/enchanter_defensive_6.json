@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:block_chance",
+      "modifier": {
+        "amount": 0.01,
+        "id": "24518839-dd82-47e5-9c14-c3474de0f832",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_defensive_7",
+    "skilltree:enchanter_crit_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_defensive_1.png",
+  "id": "skilltree:enchanter_defensive_6",
+  "isStartingPoint": false,
+  "positionX": 230.6784,
+  "positionY": -195.52164
+}

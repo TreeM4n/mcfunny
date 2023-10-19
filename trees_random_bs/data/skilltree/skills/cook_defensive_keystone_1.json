@@ -1,0 +1,24 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:block_chance_per_satisfied_hunger",
+      "modifier": {
+        "amount": 0.01,
+        "id": "b068cf7c-29ca-41d9-aea0-3794b9cb3d26",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/cook_defensive_keystone_1.png",
+  "id": "skilltree:cook_defensive_keystone_1",
+  "isStartingPoint": false,
+  "positionX": -53.99701,
+  "positionY": -379.53247
+}

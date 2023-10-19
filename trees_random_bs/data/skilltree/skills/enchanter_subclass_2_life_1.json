@@ -1,0 +1,35 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modifier": {
+        "amount": 2.0,
+        "id": "ca2f72b2-eacf-4168-ac68-5c00b6e382c3",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    },
+    {
+      "attribute": "skilltree:experience_per_hour",
+      "modifier": {
+        "amount": 0.1,
+        "id": "482af4ee-7fe9-4bd9-9ce9-48b714b66d1f",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_subclass_2_life_2"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_subclass_2_life_1.png",
+  "id": "skilltree:enchanter_subclass_2_life_1",
+  "isStartingPoint": false,
+  "positionX": 232.40228,
+  "positionY": -283.073
+}

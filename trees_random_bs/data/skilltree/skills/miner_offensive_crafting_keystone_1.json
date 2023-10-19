@@ -1,0 +1,33 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:gem_power_in_weapon",
+      "modifier": {
+        "amount": 0.3,
+        "id": "8a5b444d-a170-4842-93df-1205947fc130",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    },
+    {
+      "attribute": "skilltree:maximum_weapon_sockets",
+      "modifier": {
+        "amount": 1.0,
+        "id": "331945f2-fe98-4d67-a10c-b4806f08cddd",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/miner_offensive_crafting_keystone_1.png",
+  "id": "skilltree:miner_offensive_crafting_keystone_1",
+  "isStartingPoint": false,
+  "positionX": -336.65372,
+  "positionY": 86.993515
+}

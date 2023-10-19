@@ -1,0 +1,28 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:evasion_under_potion_effect",
+      "modifier": {
+        "amount": 0.1,
+        "id": "a6b3a20e-ae13-444e-8b71-afe35db5c4ce",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "buttonSize": 20,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_defensive_4",
+    "skilltree:alchemist_defensive_crafting_5",
+    "skilltree:alchemist_subclass_2_defensive_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_defensive_notable_1.png",
+  "id": "skilltree:alchemist_defensive_notable_1",
+  "isStartingPoint": false,
+  "positionX": 79.97825,
+  "positionY": 230.5333
+}

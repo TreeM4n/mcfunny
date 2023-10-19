@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_equipment_durability",
+      "modifier": {
+        "amount": 0.05,
+        "id": "19d245d4-bad0-4b92-8be8-5750be5b022a",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:blacksmith_lesser_5"
+  ],
+  "iconTexture": "skilltree:textures/icons/blacksmith_lesser_1.png",
+  "id": "skilltree:blacksmith_lesser_4",
+  "isStartingPoint": false,
+  "positionX": -288.69278,
+  "positionY": -199.03079
+}

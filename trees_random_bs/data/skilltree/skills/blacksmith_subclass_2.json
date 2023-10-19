@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:equipment_repair_efficiency",
+      "modifier": {
+        "amount": 1.0,
+        "id": "6a2f3c2e-af46-46b2-86c6-cfce6353ea1b",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/class.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:blacksmith_subclass_2_crafting_1",
+    "skilltree:blacksmith_subclass_2_life_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/blacksmith_subclass_2.png",
+  "id": "skilltree:blacksmith_subclass_2",
+  "isStartingPoint": false,
+  "positionX": -345.34277,
+  "positionY": -32.010185
+}

@@ -1,0 +1,35 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:melee_damage",
+      "modifier": {
+        "amount": 0.01,
+        "id": "a023ae74-9f8e-4c11-a10f-60fbec236aca",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    },
+    {
+      "attribute": "skilltree:block_chance",
+      "modifier": {
+        "amount": 0.01,
+        "id": "f2405472-569c-4000-82c8-cf06ec0e32f2",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:blacksmith_subclass_1_offensive_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/blacksmith_subclass_1_offensive_1.png",
+  "id": "skilltree:blacksmith_subclass_1_offensive_4",
+  "isStartingPoint": false,
+  "positionX": -299.92267,
+  "positionY": -322.09653
+}

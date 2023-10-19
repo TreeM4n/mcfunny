@@ -1,0 +1,24 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:armor_per_gem_in_chestplate",
+      "modifier": {
+        "amount": 5.0,
+        "id": "9bf83fb2-ee4f-4f06-b2ed-aa9998f4ebba",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/miner_defensive_keystone_1.png",
+  "id": "skilltree:miner_defensive_keystone_1",
+  "isStartingPoint": false,
+  "positionX": -301.6938,
+  "positionY": 236.51938
+}

@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modifier": {
+        "amount": 1.0,
+        "id": "30fa6d21-66bb-4934-ba38-3c61f8f8b4d2",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_subclass_2_life_4"
+  ],
+  "iconTexture": "skilltree:textures/icons/cook_subclass_2_life_1.png",
+  "id": "skilltree:cook_subclass_2_life_3",
+  "isStartingPoint": false,
+  "positionX": -128.95557,
+  "positionY": -394.79712
+}

@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:attack_speed_with_gem_in_weapon",
+      "modifier": {
+        "amount": 0.02,
+        "id": "bbeee06a-bb8d-435f-81f8-59262e777f24",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_speed_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_speed_1.png",
+  "id": "skilltree:miner_speed_2",
+  "isStartingPoint": false,
+  "positionX": -249.15608,
+  "positionY": 111.512146
+}

@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:brewed_healing_potions_strength",
+      "modifier": {
+        "amount": 0.1,
+        "id": "18b4b423-d6c0-4c23-a796-2a7a359f1279",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:hunter_subclass_special"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_subclass_2_crafting_1.png",
+  "id": "skilltree:alchemist_subclass_2_crafting_5",
+  "isStartingPoint": false,
+  "positionX": 183.47227,
+  "positionY": 381.80008
+}

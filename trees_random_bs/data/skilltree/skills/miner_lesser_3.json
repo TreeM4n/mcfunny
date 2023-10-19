@@ -1,0 +1,24 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:mining_speed",
+      "modifier": {
+        "amount": 0.05,
+        "id": "ecf7d678-cc24-4448-bbb7-f0750967f576",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/miner_lesser_1.png",
+  "id": "skilltree:miner_lesser_3",
+  "isStartingPoint": false,
+  "positionX": -288.71185,
+  "positionY": 199.00313
+}

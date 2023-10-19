@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_axes_crit_chance",
+      "modifier": {
+        "amount": 0.01,
+        "id": "8e383f2e-4c1d-4c12-a77e-e7fb9f1e0e1d",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_subclass_1_crafting_4",
+    "skilltree:cook_subclass_1_crafting_5"
+  ],
+  "iconTexture": "skilltree:textures/icons/cook_subclass_1_crafting_1.png",
+  "id": "skilltree:cook_subclass_1_crafting_3",
+  "isStartingPoint": false,
+  "positionX": 160.97168,
+  "positionY": -394.78323
+}

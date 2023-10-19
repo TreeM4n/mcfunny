@@ -1,0 +1,24 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_ranged_weapon_sockets",
+      "modifier": {
+        "amount": 1.0,
+        "id": "4e550abf-102a-4686-9de3-9fa8d0918161",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/hunter_offensive_crafting_keystone_1.png",
+  "id": "skilltree:hunter_offensive_crafting_keystone_1",
+  "isStartingPoint": false,
+  "positionX": 243.65894,
+  "positionY": 248.06166
+}

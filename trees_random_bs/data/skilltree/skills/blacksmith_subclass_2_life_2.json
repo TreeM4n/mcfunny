@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_armor_maximum_life",
+      "modifier": {
+        "amount": 1.0,
+        "id": "eaf55557-dc37-48e9-a1ee-3dd4d619aa25",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:blacksmith_subclass_2_life_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/blacksmith_subclass_2_life_1.png",
+  "id": "skilltree:blacksmith_subclass_2_life_2",
+  "isStartingPoint": false,
+  "positionX": -383.85773,
+  "positionY": -72.72495
+}

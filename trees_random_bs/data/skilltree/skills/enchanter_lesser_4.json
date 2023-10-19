@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:enchantment_level_requirement",
+      "modifier": {
+        "amount": -0.05,
+        "id": "f87a9db3-2873-4452-a98b-2ce0ba58a99e",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_lesser_5"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_lesser_1.png",
+  "id": "skilltree:enchanter_lesser_4",
+  "isStartingPoint": false,
+  "positionX": 316.70734,
+  "positionY": -150.51
+}

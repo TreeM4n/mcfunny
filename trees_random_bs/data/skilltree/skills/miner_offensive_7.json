@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:damage_with_gem_in_weapon",
+      "modifier": {
+        "amount": 0.05,
+        "id": "ee54c187-5816-4db5-a151-1f5e3cf14fe7",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_offensive_8",
+    "skilltree:miner_lesser_2"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_offensive_1.png",
+  "id": "skilltree:miner_offensive_7",
+  "isStartingPoint": false,
+  "positionX": -307.1895,
+  "positionY": 114.99364
+}

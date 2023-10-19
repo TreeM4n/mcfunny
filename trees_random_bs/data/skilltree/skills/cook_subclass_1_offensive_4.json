@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "modifier": {
+        "amount": 0.01,
+        "id": "7028a7b2-623a-4f22-a7ca-a3aa346b08ec",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_subclass_1_offensive_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/cook_subclass_1_offensive_1.png",
+  "id": "skilltree:cook_subclass_1_offensive_4",
+  "isStartingPoint": false,
+  "positionX": 128.9708,
+  "positionY": -420.78476
+}

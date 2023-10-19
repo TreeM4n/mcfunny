@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:life_per_hit",
+      "modifier": {
+        "amount": 0.25,
+        "id": "e2349ad6-3246-4535-a3a4-9bf77c4799e1",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_healing_2",
+    "skilltree:alchemist_healing_4"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_healing_1.png",
+  "id": "skilltree:alchemist_healing_3",
+  "isStartingPoint": false,
+  "positionX": 82.95905,
+  "positionY": 142.92189
+}

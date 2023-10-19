@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_boots_movement_speed",
+      "modifier": {
+        "amount": 0.02,
+        "id": "6a22b5e5-9b0f-4c01-9466-597848157c89",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_subclass_1_crafting_3",
+    "skilltree:miner_subclass_1_crafting_5"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_subclass_1_crafting_1.png",
+  "id": "skilltree:miner_subclass_1_crafting_2",
+  "isStartingPoint": false,
+  "positionX": -399.8687,
+  "positionY": 44.994183
+}

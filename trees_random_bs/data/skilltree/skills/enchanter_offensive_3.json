@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:damage_with_enchanted_weapon",
+      "modifier": {
+        "amount": 0.05,
+        "id": "ba3d080b-6d33-49fe-9c10-4013c877ef96",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_offensive_4"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_offensive_1.png",
+  "id": "skilltree:enchanter_offensive_3",
+  "isStartingPoint": false,
+  "positionX": 213.63829,
+  "positionY": -75.99579
+}

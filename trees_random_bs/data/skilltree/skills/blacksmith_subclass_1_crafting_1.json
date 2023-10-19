@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crafted_melee_weapon_crit_chance",
+      "modifier": {
+        "amount": 0.01,
+        "id": "809b3485-2388-4c4d-b5f3-a6708df005d7",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:blacksmith_subclass_1_crafting_2"
+  ],
+  "iconTexture": "skilltree:textures/icons/blacksmith_subclass_1_crafting_1.png",
+  "id": "skilltree:blacksmith_subclass_1_crafting_1",
+  "isStartingPoint": false,
+  "positionX": -216.37428,
+  "positionY": -310.80554
+}

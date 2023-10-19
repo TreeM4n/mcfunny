@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crit_chance_against_poisoned",
+      "modifier": {
+        "amount": 0.02,
+        "id": "6d867453-0398-4765-a414-1083cd50d90b",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_crit_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_crit_1.png",
+  "id": "skilltree:alchemist_crit_2",
+  "isStartingPoint": false,
+  "positionX": -27.99701,
+  "positionY": 297.52728
+}

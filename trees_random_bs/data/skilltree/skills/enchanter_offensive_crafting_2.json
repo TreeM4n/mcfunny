@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:chance_to_apply_better_weapon_enchantment",
+      "modifier": {
+        "amount": 0.1,
+        "id": "12ff6430-0b67-4f65-a005-c5f5e46a9e39",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:enchanter_offensive_crafting_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/enchanter_offensive_crafting_1.png",
+  "id": "skilltree:enchanter_offensive_crafting_2",
+  "isStartingPoint": false,
+  "positionX": 157.63829,
+  "positionY": -45.99579
+}

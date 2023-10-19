@@ -1,0 +1,27 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:evasion_chance",
+      "modifier": {
+        "amount": 0.01,
+        "id": "8234abf2-5bf8-41f4-9aef-7c25ec136cd1",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_defensive_8",
+    "skilltree:alchemist_lesser_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_defensive_1.png",
+  "id": "skilltree:alchemist_defensive_7",
+  "isStartingPoint": false,
+  "positionX": 53.99701,
+  "positionY": 323.53247
+}

@@ -1,0 +1,33 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:brewed_harmful_potions_strength",
+      "modifier": {
+        "amount": 0.3,
+        "id": "1caf9dc5-6bbc-4cd7-8aff-8138d7e5a362",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    },
+    {
+      "attribute": "skilltree:can_poison_weapons",
+      "modifier": {
+        "amount": 1.0,
+        "id": "4a33bf92-76e5-4e27-b894-4a6e97dc56db",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/alchemist_offensive_crafting_keystone_1.png",
+  "id": "skilltree:alchemist_offensive_crafting_keystone_1",
+  "isStartingPoint": false,
+  "positionX": -92.97753,
+  "positionY": 335.0439
+}

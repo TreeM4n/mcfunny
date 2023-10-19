@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:brewed_beneficial_potions_strength",
+      "modifier": {
+        "amount": 0.1,
+        "id": "cb90578b-83e4-4bf0-89f7-8982189d4893",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_defensive_crafting_2"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_defensive_crafting_1.png",
+  "id": "skilltree:alchemist_defensive_crafting_1",
+  "isStartingPoint": false,
+  "positionX": 25.981241,
+  "positionY": 137.00082
+}

@@ -1,0 +1,24 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:maximum_equipment_sockets",
+      "modifier": {
+        "amount": 1.0,
+        "id": "8e238c24-9d32-43ca-ae16-5b2a5feb093d",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "buttonSize": 24,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [],
+  "iconTexture": "skilltree:textures/icons/miner_mastery.png",
+  "id": "skilltree:miner_mastery",
+  "isStartingPoint": false,
+  "positionX": -351.2064,
+  "positionY": 202.75761
+}

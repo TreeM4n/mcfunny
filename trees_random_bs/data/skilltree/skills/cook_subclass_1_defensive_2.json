@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:block_chance",
+      "modifier": {
+        "amount": 0.01,
+        "id": "3e35600a-5825-4d5a-995e-4974c83cb4dc",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_subclass_1_defensive_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/cook_subclass_1_defensive_1.png",
+  "id": "skilltree:cook_subclass_1_defensive_2",
+  "isStartingPoint": false,
+  "positionX": 118.96703,
+  "positionY": -238.03976
+}

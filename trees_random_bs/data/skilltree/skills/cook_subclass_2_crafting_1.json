@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:experience_from_fishing",
+      "modifier": {
+        "amount": 0.2,
+        "id": "3271e6c6-5959-4722-94ac-ab3ec3c686a0",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_subclass_2_crafting_2"
+  ],
+  "iconTexture": "skilltree:textures/icons/cook_subclass_2_crafting_1.png",
+  "id": "skilltree:cook_subclass_2_crafting_1",
+  "isStartingPoint": false,
+  "positionX": -160.95645,
+  "positionY": -342.79865
+}

@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:life_regeneration_bonus",
+      "modifier": {
+        "amount": 0.25,
+        "id": "bcc54a6e-0221-483a-904e-c4a1939c8f2a",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_healing_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_healing_1.png",
+  "id": "skilltree:miner_healing_1",
+  "isStartingPoint": false,
+  "positionX": -107.41354,
+  "positionY": 150.03067
+}

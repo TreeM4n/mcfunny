@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:attack_speed_with_ranged_weapon",
+      "modifier": {
+        "amount": 0.02,
+        "id": "6248c908-b99d-4d22-86e2-d6b17ff8530a",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:hunter_speed_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/hunter_speed_1.png",
+  "id": "skilltree:hunter_speed_1",
+  "isStartingPoint": false,
+  "positionX": 249.14754,
+  "positionY": 111.52569
+}

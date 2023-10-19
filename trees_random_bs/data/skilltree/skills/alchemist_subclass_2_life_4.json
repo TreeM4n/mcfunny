@@ -1,0 +1,35 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "modifier": {
+        "amount": 2.0,
+        "id": "e0cd2ba7-5f43-4461-ab56-677cd60ba816",
+        "nameGetter": "PassiveSkill",
+        "operation": "ADDITION"
+      }
+    },
+    {
+      "attribute": "skilltree:incoming_healing",
+      "modifier": {
+        "amount": 0.05,
+        "id": "832f3ea3-f8a7-460a-b378-6b7cac0b6da6",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_subclass_2_life_notable_1"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_subclass_2_life_1.png",
+  "id": "skilltree:alchemist_subclass_2_life_4",
+  "isStartingPoint": false,
+  "positionX": 128.95822,
+  "positionY": 420.79712
+}

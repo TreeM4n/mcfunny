@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:cooked_food_damage_per_saturation",
+      "modifier": {
+        "amount": 0.0025,
+        "id": "ffe7b1d1-43a6-4be4-8036-c3cf9c1ebc4f",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:cook_offensive_crafting_6"
+  ],
+  "iconTexture": "skilltree:textures/icons/cook_offensive_crafting_1.png",
+  "id": "skilltree:cook_offensive_crafting_5",
+  "isStartingPoint": false,
+  "positionX": 92.98723,
+  "positionY": -253.04143
+}

@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:gem_power_in_weapon",
+      "modifier": {
+        "amount": 0.1,
+        "id": "54c15f06-29a3-4131-861b-979ef16d66f7",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:miner_offensive_crafting_3"
+  ],
+  "iconTexture": "skilltree:textures/icons/miner_offensive_crafting_1.png",
+  "id": "skilltree:miner_offensive_crafting_2",
+  "isStartingPoint": false,
+  "positionX": -157.63829,
+  "positionY": 45.99579
+}

@@ -1,0 +1,26 @@
+{
+  "attributeModifiers": [
+    {
+      "attribute": "skilltree:crit_chance",
+      "modifier": {
+        "amount": 0.02,
+        "id": "5dba30cb-cb57-40eb-b9e9-a81cb25afc79",
+        "nameGetter": "PassiveSkill",
+        "operation": "MULTIPLY_BASE"
+      }
+    }
+  ],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "buttonSize": 16,
+  "commands": [],
+  "connectedAsGateways": [],
+  "connectedSkills": [
+    "skilltree:alchemist_subclass_1_offensive_2"
+  ],
+  "iconTexture": "skilltree:textures/icons/alchemist_subclass_1_offensive_1.png",
+  "id": "skilltree:alchemist_subclass_1_offensive_1",
+  "isStartingPoint": false,
+  "positionX": -128.95822,
+  "positionY": 342.78973
+}
