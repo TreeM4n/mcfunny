@@ -1,8 +1,12 @@
+# alle Dateien werden ignoriert
+/*
+
+# diese Ordner/Datein werden nicht ignoriert
 !/configureddefaults
 !/mods
 !/resourcepacks
 !/trees_random_bs
 !trees_random_bs.zip
 
-/*
+# .connector Ordner wieder ignorieren
 /mods/.connector
