@@ -1,0 +1,37 @@
+{
+  "id": "skilltree:enchanter_life_2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "2cb39d91-d6b3-4478-895e-25cf080d6ec7",
+      "name": "SkillBonus",
+      "amount": 2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "item_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:enchanted"
+        },
+        "type": "skilltree:has_item_equipped"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:enchanter_life_notable_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/enchanter_life_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 226.639,
+  "positionY": -98.51286,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

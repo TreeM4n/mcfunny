@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:alchemist_speed_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "id": "d2e69760-9858-4e12-9e7d-d8a7d9aa50cb",
+      "name": "SkillBonus",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "min": 1,
+        "type": "skilltree:effect_amount"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:alchemist_speed_notable_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_speed_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 27.99701,
+  "positionY": 271.53247,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

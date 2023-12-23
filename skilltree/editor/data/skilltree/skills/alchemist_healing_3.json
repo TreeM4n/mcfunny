@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:alchemist_healing_3",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:life_per_hit",
+      "id": "9630e3a7-d724-469d-90f6-0c210c621b36",
+      "name": "SkillBonus",
+      "amount": 0.25,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:alchemist_healing_2",
+    "skilltree:alchemist_healing_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_healing_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 82.95905,
+  "positionY": 142.92189,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

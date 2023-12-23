@@ -1,0 +1,31 @@
+{
+  "id": "skilltree:enchanter_defensive_3",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:blocking",
+      "id": "ce8cd897-72cf-4ddd-8c5d-eca64428fe85",
+      "name": "SkillBonus",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:enchanter_defensive_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/enchanter_defensive_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 172.64282,
+  "positionY": -147.00725,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

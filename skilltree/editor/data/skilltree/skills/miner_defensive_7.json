@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:miner_defensive_7",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:evasion",
+      "id": "6cb78f8f-7165-4b7e-83b5-cc4e4c3a548f",
+      "name": "SkillBonus",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:miner_defensive_8",
+    "skilltree:miner_lesser_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/miner_defensive_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": -253.19548,
+  "positionY": 208.52092,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:hunter_healing_3",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:life_per_hit",
+      "id": "50302bd0-e93b-4b37-a1d6-67e7bc177b00",
+      "name": "SkillBonus",
+      "amount": 0.25,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:hunter_healing_2",
+    "skilltree:hunter_healing_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/hunter_healing_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 165.24799,
+  "positionY": -0.37812424,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

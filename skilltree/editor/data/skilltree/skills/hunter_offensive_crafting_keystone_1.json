@@ -1,0 +1,26 @@
+{
+  "id": "skilltree:hunter_offensive_crafting_keystone_1",
+  "bonuses": [
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "weapon_type": "ranged",
+        "type": "skilltree:weapon"
+      },
+      "item_bonus": {
+        "amount": 1,
+        "type": "skilltree:sockets"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/hunter_offensive_crafting_keystone_1.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": 243.65894,
+  "positionY": 248.06166,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:cook_healing_3",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:life_on_block",
+      "id": "f6e7f6d8-0aeb-4c86-bfff-f50536b09048",
+      "name": "SkillBonus",
+      "amount": 0.25,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:cook_healing_2",
+    "skilltree:cook_healing_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/cook_healing_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": -82.95905,
+  "positionY": -142.92189,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

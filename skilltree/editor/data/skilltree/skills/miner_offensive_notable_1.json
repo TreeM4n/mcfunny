@@ -1,0 +1,55 @@
+{
+  "id": "skilltree:miner_offensive_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "eceba7e9-c49c-46f9-bef7-4663a647a2e0",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:damage",
+      "chance": -0.3,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "any",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:has_item_in_hand"
+      },
+      "damage_condition": {
+        "type": "skilltree:none"
+      },
+      "target_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:miner_offensive_4",
+    "skilltree:miner_offensive_crafting_5",
+    "skilltree:miner_subclass_1_defensive_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/miner_offensive_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "title": "specialisation",
+  "titleColor": "",
+  "positionX": -239.64,
+  "positionY": 46.0,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

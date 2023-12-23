@@ -1,0 +1,39 @@
+{
+  "id": "skilltree:hunter_subclass_special",
+  "bonuses": [
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "weapon_type": "any",
+        "type": "skilltree:weapon"
+      },
+      "item_bonus": {
+        "skill_bonus": {
+          "attribute": "skilltree:life_per_hit",
+          "id": "f4c5a627-dbc4-442b-83e1-c4087ef39338",
+          "name": "SkillBonus",
+          "amount": 0.5,
+          "operation": 0,
+          "player_multiplier": {
+            "type": "skilltree:none"
+          },
+          "player_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:attribute"
+        },
+        "type": "skilltree:skill_bonus"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/hunter_subclass_special_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": 211.1812,
+  "positionY": 365.8061,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

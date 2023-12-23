@@ -1,0 +1,34 @@
+{
+  "id": "skilltree:alchemist_defensive_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:evasion",
+      "id": "fd4f22a2-9e28-4ddc-9bfb-0f2dc83a04b3",
+      "name": "SkillBonus",
+      "amount": 10.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "min": 1,
+        "type": "skilltree:effect_amount"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:alchemist_defensive_4",
+    "skilltree:alchemist_defensive_crafting_5",
+    "skilltree:alchemist_subclass_2_defensive_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_defensive_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": 79.97825,
+  "positionY": 230.5333,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

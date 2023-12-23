@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:miner_offensive_4",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "47b271f9-e355-43b4-aa5c-7fbcddbe45cf",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:miner_life_2",
+    "skilltree:miner_offensive_5"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/miner_offensive_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": -239.63829,
+  "positionY": 75.99579,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "skilltree:blacksmith_crafting_2",
+  "bonuses": [
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "armor_type": "shield",
+        "type": "skilltree:armor"
+      },
+      "item_bonus": {
+        "skill_bonus": {
+          "attribute": "minecraft:generic.armor",
+          "id": "fbfd056f-f87f-4662-92aa-3cbe63aebb57",
+          "name": "SkillBonus",
+          "amount": 2.0,
+          "operation": 0,
+          "player_multiplier": {
+            "type": "skilltree:none"
+          },
+          "player_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:attribute"
+        },
+        "type": "skilltree:skill_bonus"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:blacksmith_crafting_3"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/blacksmith_crafting_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": -81.40338,
+  "positionY": -47.005203,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

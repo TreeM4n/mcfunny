@@ -1,0 +1,14 @@
+{
+  "id": "skilltree:new_skill_4",
+  "bonuses": [],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/gateway.png",
+  "iconTexture": "skilltree:textures/icons/void.png",
+  "borderTexture": "skilltree:textures/tooltip/gateway.png",
+  "title": "Magic Gateway",
+  "positionX": -479.79,
+  "positionY": 276.99,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

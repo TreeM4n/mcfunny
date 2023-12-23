@@ -1,0 +1,30 @@
+{
+  "id": "skilltree:blacksmith_offensive_keystone_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "id": "270d95ee-7c31-4d40-b368-733ceaa5f21e",
+      "name": "SkillBonus",
+      "amount": 0.1,
+      "operation": 0,
+      "player_multiplier": {
+        "attribute": "minecraft:generic.armor",
+        "type": "skilltree:attribute_value"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/blacksmith_offensive_keystone_1.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": -301.6711,
+  "positionY": -236.54828,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

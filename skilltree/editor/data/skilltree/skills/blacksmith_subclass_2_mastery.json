@@ -1,0 +1,107 @@
+{
+  "id": "skilltree:blacksmith_subclass_2_mastery",
+  "bonuses": [
+    {
+      "type": "skilltree:repair_efficiency",
+      "item_condition": {
+        "type": "skilltree:equipment"
+      },
+      "multiplier": 0.05
+    },
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "type": "skilltree:equipment"
+      },
+      "item_bonus": {
+        "chance": 0.05,
+        "operation": 1,
+        "type": "skilltree:durability"
+      }
+    },
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "weapon_type": "any",
+        "type": "skilltree:weapon"
+      },
+      "item_bonus": {
+        "skill_bonus": {
+          "attribute": "minecraft:generic.attack_speed",
+          "id": "9ed90467-6c19-426b-823b-48d0a6d4bb57",
+          "name": "SkillBonus",
+          "amount": 0.05,
+          "operation": 1,
+          "player_multiplier": {
+            "type": "skilltree:none"
+          },
+          "player_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:attribute"
+        },
+        "type": "skilltree:skill_bonus"
+      }
+    },
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "armor_type": "any",
+        "type": "skilltree:armor"
+      },
+      "item_bonus": {
+        "skill_bonus": {
+          "attribute": "minecraft:generic.armor_toughness",
+          "id": "ece5ec6b-a140-4666-a5c4-7ff4419f365a",
+          "name": "SkillBonus",
+          "amount": 0.05000000074505806,
+          "operation": 1,
+          "player_multiplier": {
+            "type": "skilltree:none"
+          },
+          "player_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:attribute"
+        },
+        "type": "skilltree:skill_bonus"
+      }
+    },
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "armor_type": "shield",
+        "type": "skilltree:armor"
+      },
+      "item_bonus": {
+        "skill_bonus": {
+          "attribute": "minecraft:generic.armor",
+          "id": "be673668-7d4f-428d-89bd-de09f9abd89d",
+          "name": "SkillBonus",
+          "amount": 5.0,
+          "operation": 0,
+          "player_multiplier": {
+            "type": "skilltree:none"
+          },
+          "player_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:attribute"
+        },
+        "type": "skilltree:skill_bonus"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:blacksmith_subclass_2_life_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/blacksmith_subclass_2_mastery.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": -460.8894,
+  "positionY": -98.72784,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

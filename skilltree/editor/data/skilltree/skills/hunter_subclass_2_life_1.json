@@ -1,0 +1,35 @@
+{
+  "id": "skilltree:hunter_subclass_2_life_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "fbbda228-8894-4bac-b246-3b952a5a1656",
+      "name": "SkillBonus",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "ranged",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:has_item_in_hand"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:hunter_subclass_2_life_2"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/hunter_subclass_2_life_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 361.3419,
+  "positionY": 59.72351,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

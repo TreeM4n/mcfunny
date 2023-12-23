@@ -1,0 +1,31 @@
+{
+  "id": "skilltree:miner_life_2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "7cbd40fa-3eb7-490f-b78b-e1d243a52c06",
+      "name": "SkillBonus",
+      "amount": -0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:miner_life_notable_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/miner_life_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": -226.639,
+  "positionY": 98.51286,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

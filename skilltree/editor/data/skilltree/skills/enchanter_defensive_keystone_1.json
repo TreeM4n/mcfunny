@@ -1,0 +1,33 @@
+{
+  "id": "skilltree:enchanter_defensive_keystone_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:blocking",
+      "id": "bc469798-5381-4d96-b70a-0b528fe77c5c",
+      "name": "SkillBonus",
+      "amount": 5.0,
+      "operation": 0,
+      "player_multiplier": {
+        "item_condition": {
+          "armor_type": "shield",
+          "type": "skilltree:armor"
+        },
+        "type": "skilltree:enchants_amount"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/enchanter_defensive_keystone_1.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": 301.6938,
+  "positionY": -236.51938,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

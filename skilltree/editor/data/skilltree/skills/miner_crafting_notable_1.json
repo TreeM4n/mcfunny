@@ -1,0 +1,44 @@
+{
+  "id": "skilltree:miner_crafting_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:mana_regen",
+      "id": "316c7908-22a9-4a60-8699-bf93cb6dc966",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "ae39dc2f-9f20-4a69-ac20-2dd8f0f12e9f",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 2,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/enchanter_subclass_1_mastery.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "title": "Destruction",
+  "titleColor": "",
+  "positionX": -32.04,
+  "positionY": 18.5,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

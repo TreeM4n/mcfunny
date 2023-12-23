@@ -1,0 +1,43 @@
+{
+  "id": "skilltree:miner_subclass_1_offensive_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:cast_time_reduction",
+      "id": "217039cd-d2f9-43ee-968c-1d1f2ae5593c",
+      "name": "SkillBonus",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "77701a37-40b9-43be-84cc-616e2c1d22b6",
+      "name": "SkillBonus",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/miner_subclass_1_offensive_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": -428.90466,
+  "positionY": 128.70454,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

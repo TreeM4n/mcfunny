@@ -1,0 +1,14 @@
+{
+  "id": "skilltree:alchemist_healing_notable_1",
+  "bonuses": [],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_healing_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": 54.9606,
+  "positionY": 94.42358,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

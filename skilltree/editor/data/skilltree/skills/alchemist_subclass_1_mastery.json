@@ -1,0 +1,33 @@
+{
+  "id": "skilltree:alchemist_subclass_1_mastery",
+  "bonuses": [
+    {
+      "type": "skilltree:crit_damage",
+      "chance": 0.5,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      },
+      "damage_condition": {
+        "type": "skilltree:none"
+      },
+      "target_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:alchemist_subclass_1_offensive_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/alchemist_subclass_1_mastery.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": -144.95734,
+  "positionY": 448.50153,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

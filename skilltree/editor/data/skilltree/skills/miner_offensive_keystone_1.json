@@ -1,0 +1,30 @@
+{
+  "id": "skilltree:miner_offensive_keystone_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "8192383f-4929-470a-a407-2e22eb8711b3",
+      "name": "Skill",
+      "amount": 0.001,
+      "operation": 1,
+      "player_multiplier": {
+        "attribute": "irons_spellbooks:max_mana",
+        "type": "skilltree:attribute_value"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/miner_offensive_keystone_1.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": -355.68784,
+  "positionY": 142.9921,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

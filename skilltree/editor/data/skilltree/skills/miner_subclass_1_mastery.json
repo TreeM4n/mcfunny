@@ -1,0 +1,33 @@
+{
+  "id": "skilltree:miner_subclass_1_mastery",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "fe3a58a7-7fd0-4a1a-a6d6-75101cee43d3",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "type": "skilltree:attribute_value"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:miner_subclass_1_offensive_4"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/miner_subclass_1_mastery.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "title": "Kiting",
+  "titleColor": "",
+  "positionX": -460.9,
+  "positionY": 98.7,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

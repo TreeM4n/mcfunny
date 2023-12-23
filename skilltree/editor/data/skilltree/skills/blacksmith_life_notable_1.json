@@ -1,0 +1,33 @@
+{
+  "id": "skilltree:blacksmith_life_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "5eb72155-08f1-46f1-9cf4-9c10ef6a3cb4",
+      "name": "SkillBonus",
+      "amount": 4.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "armor_type": "shield",
+          "type": "skilltree:armor"
+        },
+        "type": "skilltree:has_item_in_hand"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/blacksmith_life_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": -212.63101,
+  "positionY": -122.77724,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

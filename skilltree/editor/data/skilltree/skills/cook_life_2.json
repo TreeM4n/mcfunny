@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:cook_life_2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "0d597d59-8e5b-406e-a1a7-c42c45f336a6",
+      "name": "SkillBonus",
+      "amount": 2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "min": 15,
+        "type": "skilltree:food_level"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:cook_life_notable_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/cook_life_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 28.005981,
+  "positionY": -245.52727,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

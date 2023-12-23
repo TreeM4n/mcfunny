@@ -1,0 +1,45 @@
+{
+  "id": "skilltree:miner_offensive_crafting_keystone_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "curios:ring",
+      "id": "fa719030-3bab-4c69-bde1-1de1ed4d6e34",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "attribute": "minecraft:generic.armor",
+        "max": 10.0,
+        "type": "skilltree:attribute_value"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "b5a2dfe5-1b88-4428-9238-df068e983200",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 2,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/miner_offensive_crafting_keystone_1.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "titleColor": "",
+  "positionX": -336.65372,
+  "positionY": 86.993515,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

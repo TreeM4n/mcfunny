@@ -1,0 +1,30 @@
+{
+  "id": "skilltree:miner_life_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "8a7fa19e-9fa4-42ca-90e5-6d57a0b602ce",
+      "name": "SkillBonus",
+      "amount": 0.01,
+      "operation": 0,
+      "player_multiplier": {
+        "attribute": "irons_spellbooks:max_mana",
+        "type": "skilltree:attribute_value"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/miner_life_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": -212.63979,
+  "positionY": 122.762024,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

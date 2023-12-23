@@ -1,0 +1,39 @@
+{
+  "id": "skilltree:hunter_subclass_1_crafting_notable_1",
+  "bonuses": [
+    {
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "armor_type": "boots",
+        "type": "skilltree:armor"
+      },
+      "item_bonus": {
+        "skill_bonus": {
+          "attribute": "skilltree:stealth",
+          "id": "c4206724-f352-4f97-b6c2-6ab3b5e59ae5",
+          "name": "SkillBonus",
+          "amount": 5.0,
+          "operation": 0,
+          "player_multiplier": {
+            "type": "skilltree:none"
+          },
+          "player_condition": {
+            "type": "skilltree:none"
+          },
+          "type": "skilltree:attribute"
+        },
+        "type": "skilltree:skill_bonus"
+      }
+    }
+  ],
+  "connectedSkills": [],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/hunter_subclass_1_crafting_notable_1.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "titleColor": "",
+  "positionX": 283.92465,
+  "positionY": 379.80984,
+  "buttonSize": 20,
+  "isStartingPoint": false
+}

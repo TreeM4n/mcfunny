@@ -1,0 +1,32 @@
+{
+  "id": "skilltree:hunter_defensive_6",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:evasion",
+      "id": "76e9b5b6-f8d8-4c18-a061-ba2de60e5d09",
+      "name": "SkillBonus",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:hunter_defensive_7",
+    "skilltree:hunter_crit_1"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/hunter_defensive_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": 284.66266,
+  "positionY": 102.0113,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

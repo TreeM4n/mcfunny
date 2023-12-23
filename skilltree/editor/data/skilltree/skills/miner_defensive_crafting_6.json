@@ -1,0 +1,31 @@
+{
+  "id": "skilltree:miner_defensive_crafting_6",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "ad732633-e132-4f24-9987-3bcfae9b65b5",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 2,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "connectedSkills": [
+    "skilltree:miner_defensive_crafting_7"
+  ],
+  "connectedAsGateways": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/miner_defensive_crafting_1.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "titleColor": "",
+  "positionX": -195.18297,
+  "positionY": 220.03984,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}
