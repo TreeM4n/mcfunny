@@ -10,3 +10,12 @@ Examples:
 - `.minecraft/configureddefaults/config/jei/jei.toml` will be copied to `.minecraft/config/jei/jei.toml` if not already present
 
 Note that this `README.md` file is excluded from being copied to `.minecraft`.
+
+Änderungen:
+
+options.txt:
+- wenn nur die änderungen in die datei geschrieben werden und es auch key bind änderungen gibt, werden die änderungen nicht übernommen 
+- fullscreen on
+- gamma auf 1.0
+- guiScale auf 3
+- shader keybinds aus (reload, toggle und open menu - das ist sonst auf "R", "K" und "O")
