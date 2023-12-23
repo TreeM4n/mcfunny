@@ -1,6 +1,5 @@
 !/configureddefaults
+!/mods
+!/resourcepacks
 
-/mods/.connector
-
-options.txt
-/config
+/
