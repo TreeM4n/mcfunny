@@ -1,4 +1,6 @@
+!/configureddefaults
+
 /mods/.connector
 
 options.txt
-!/configureddefaults/options.txt
+/config
