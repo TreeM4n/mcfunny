@@ -4,9 +4,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:mana_regen",
-      "id": "316c7908-22a9-4a60-8699-bf93cb6dc966",
+      "id": "8aab0670-e769-4ec7-ba49-b5b00049d614",
       "name": "Skill",
-      "amount": 1.0,
+      "amount": 0.5,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"

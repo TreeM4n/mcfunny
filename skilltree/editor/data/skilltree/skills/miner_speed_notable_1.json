@@ -18,9 +18,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:cooldown_reduction",
-      "id": "8a95d225-0344-468b-8c02-f54ed54b20e8",
+      "id": "fa6ed720-46a1-4620-b87d-d7788ab85df3",
       "name": "Skill",
-      "amount": 0.1,
+      "amount": 0.15,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
