@@ -1,11 +1,13 @@
 obliterate enchantsments
 
 - rebounding
+- mending, infinity
 
 obliterate items
 
 - supreme measure
 - nuclear bomb
+- all from scaling health and bandages
 
 obliterate mobs
 
@@ -13,4 +15,9 @@ obliterate mobs
 
 buffing mobs
 
--guards health
+- all bosses, 
+	tier I 2k - 5k health, 
+	tier II 10k - 15k health,
+	tier III 25k - 35k health,
+
+damage idfk, watch out for difficulty
