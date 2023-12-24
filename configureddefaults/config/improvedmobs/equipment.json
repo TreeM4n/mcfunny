@@ -359,8 +359,8 @@
       3.138668
     ],
     "minecraft:tnt": [
-      800,
-      3.3607779
+      0,
+      0.0
     ],
     "minecraft:trident": [
       900,
@@ -949,16 +949,16 @@
       3.0690577
     ],
     "minecraft:ender_pearl": [
-      1100,
-      3.330605
+      0,
+      0.0
     ],
     "minecraft:flint_and_steel": [
       1200,
       3.248736
     ],
     "minecraft:lava_bucket": [
-      900,
-      3.3903658
+      0,
+      0.0
     ],
     "minecraft:shield": [
       1350,
