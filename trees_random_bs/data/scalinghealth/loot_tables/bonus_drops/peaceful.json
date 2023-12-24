@@ -5,7 +5,7 @@
       "bonus_rolls": 0.0,
       "conditions": [
         {
-          "chance": 0.055,
+          "chance": 0.0,
           "condition": "minecraft:random_chance_with_looting",
           "looting_multiplier": 0.005
         },
@@ -52,7 +52,7 @@
       "bonus_rolls": 0.0,
       "conditions": [
         {
-          "chance": 0.015,
+          "chance": 0.0,
           "condition": "minecraft:random_chance_with_looting",
           "looting_multiplier": 0.025
         }

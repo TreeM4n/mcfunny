@@ -19,7 +19,7 @@
           ],
           "name": "scalinghealth:heart_crystal",
           "quality": 2,
-          "weight": 3
+          "weight": 0
         },
         {
           "type": "minecraft:item",
@@ -84,11 +84,11 @@
           ],
           "name": "scalinghealth:power_crystal",
           "quality": 7,
-          "weight": 2
+          "weight": 0
         },
         {
           "type": "minecraft:empty",
-          "weight": 10
+          "weight": 0
         }
       ],
       "rolls": {

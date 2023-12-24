@@ -8,8 +8,8 @@
     "hostileMultiplier" : 0.375,
     "hostilePotionChance" : 0.06,
     "peacefulPotionChance" : 0.005,
-    "damageBoostScale" : 0.1,
-    "maxDamageBoost" : 10,
+    "damageBoostScale" : 0.0,
+    "maxDamageBoost" : 100,
     "spawnerModifier" : 0.3,
     "xpBoost" : 0.03
   },
@@ -53,7 +53,7 @@
     }
   ],
   "blights" : {
-    "blightChance" : 0.03,
+    "blightChance" : 0.0,
     "blightXpBoost" : 2,
     "notifyBlightDeath" : true,
     "blightDifficultyModifier" : 1.7,

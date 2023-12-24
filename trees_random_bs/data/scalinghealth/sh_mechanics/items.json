@@ -1,7 +1,7 @@
 {
-  "cursedHeartChange": 10,
-  "enchantedHeartChange": -10,
-  "chanceHeartChange": 10,
+  "cursedHeartChange": 0,
+  "enchantedHeartChange": 0,
+  "chanceHeartChange": 0,
   "heartCrystalBonusRegen": 4,
   "heartCrystalLevelCost": 3,
   "heartCrystalHealthIncrease": 1,
