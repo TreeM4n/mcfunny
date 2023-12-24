@@ -14,6 +14,27 @@
       "player_condition": {
         "type": "skilltree:none"
       }
+    },
+    {
+      "type": "skilltree:damage",
+      "chance": -0.25,
+      "operation": 2,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "any",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:has_item_in_hand"
+      },
+      "damage_condition": {
+        "type": "skilltree:none"
+      },
+      "target_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [

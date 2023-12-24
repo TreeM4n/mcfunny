@@ -10,7 +10,7 @@
       "item_bonus": {
         "skill_bonus": {
           "attribute": "minecraft:generic.attack_damage",
-          "id": "92af3aec-2b8a-4352-b3d6-aa039b5f2906",
+          "id": "a922c157-9ffa-4c27-8aef-a341ddc72b9b",
           "name": "SkillBonus",
           "amount": 1.0,
           "operation": 0,
@@ -18,7 +18,11 @@
             "type": "skilltree:none"
           },
           "player_condition": {
-            "type": "skilltree:none"
+            "item_condition": {
+              "weapon_type": "melee",
+              "type": "skilltree:weapon"
+            },
+            "type": "skilltree:has_item_in_hand"
           },
           "type": "skilltree:attribute"
         },

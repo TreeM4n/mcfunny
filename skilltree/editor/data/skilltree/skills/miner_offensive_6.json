@@ -14,6 +14,20 @@
       "player_condition": {
         "type": "skilltree:none"
       }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "7c96a788-43bd-4adb-b858-ff50d1e3f903",
+      "name": "Skill",
+      "amount": -0.5,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [

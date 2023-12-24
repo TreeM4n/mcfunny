@@ -1,17 +1,6 @@
 {
   "id": "skilltree:miner_lesser_2",
-  "bonuses": [
-    {
-      "type": "skilltree:block_break_speed",
-      "player_condition": {
-        "item_condition": {
-          "type": "skilltree:pickaxe"
-        },
-        "type": "skilltree:has_item_in_hand"
-      },
-      "multiplier": 0.05
-    }
-  ],
+  "bonuses": [],
   "connectedSkills": [
     "skilltree:miner_lesser_4"
   ],

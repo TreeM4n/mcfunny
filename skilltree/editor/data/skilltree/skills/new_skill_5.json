@@ -4,9 +4,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "2e095986-e854-43c8-bffb-fc1d84777a8a",
+      "id": "d3fa4cb3-9f47-4232-a791-2cac1431cc21",
       "name": "Skill",
-      "amount": 2.5,
+      "amount": 0.75,
       "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -32,7 +32,7 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:cast_time_reduction",
-      "id": "f8b37e5a-fa99-48fd-9dcc-270171797a9a",
+      "id": "5ec7cde3-85fd-439a-a95a-8252622b979a",
       "name": "Skill",
       "amount": -3.0,
       "operation": 1,
@@ -46,9 +46,23 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:cooldown_reduction",
-      "id": "e67e558e-662f-48fb-a721-452329c566e0",
+      "id": "44e41876-6850-4312-8fcb-8c5306a53e01",
       "name": "Skill",
-      "amount": -0.3,
+      "amount": -0.4,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "obscure_api:regeneration",
+      "id": "ee204261-37c5-4662-ab08-3c3711b7f78c",
+      "name": "Skill",
+      "amount": -0.25,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
