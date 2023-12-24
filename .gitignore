@@ -8,5 +8,7 @@
 !/trees_random_bs
 !trees_random_bs.zip
 !/skilltree
-# .connector Ordner wieder ignorieren
+
+# einige Ordner wieder ignorieren
 /mods/.connector
+/mods/.index
