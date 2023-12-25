@@ -17,7 +17,7 @@ buffing mobs
 
 - all bosses, 
 	tier I 2k - 5k health, 
-	tier II 10k - 15k health,
-	tier III 25k - 35k health,
+	tier II 7k - 12k health,
+	tier III 18k - 25k health,
 
 damage idfk, watch out for difficulty
