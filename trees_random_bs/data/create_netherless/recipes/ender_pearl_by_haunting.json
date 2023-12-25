@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ender_pearl",
+      "chance": 0.25
+    }
+  ]
+}

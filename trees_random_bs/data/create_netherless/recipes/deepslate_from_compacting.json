@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:deepslate"
+    }
+  ]
+}

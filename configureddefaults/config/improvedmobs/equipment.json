@@ -156,7 +156,7 @@
     ],
     "born_in_chaos_v1:supreme_measure": [
       0,
-      0
+      0.0
     ],
     "cataclysm:athame": [
       1263,
@@ -945,8 +945,8 @@
   },
   "OFFHAND": {
     "alexscaves:resistor_shield": [
-      1350,
-      3.0690577
+      0,
+      0.0
     ],
     "minecraft:ender_pearl": [
       0,

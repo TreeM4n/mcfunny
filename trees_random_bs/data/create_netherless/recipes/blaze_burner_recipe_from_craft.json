@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_rod"
+    },
+    "1": {
+      "item": "minecraft:blaze_rod"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "minecraft:soul_sand"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "create:empty_blaze_burner"
+    },
+    "8": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "create:blaze_burner",
+    "count": 1
+  }
+}

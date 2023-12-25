@@ -7,28 +7,28 @@
 			#Multipliers will be set and multiplied against the base damage of the given weapon
 			#that is attacking.
 			#Range: 0.0 ~ 10.0
-			base_ranged_stamina_multiplier = 2.0
+			base_ranged_stamina_multiplier = 1.0
 			#Default multiplier for all melee based attacks without a defined weapon type.
 			#Range: 0.0 ~ 10.0
-			base_melee_stamina_multiplier = 2.0
+			base_melee_stamina_multiplier = 1.0
 			#Range: 0.0 ~ 10.0
-			dagger_stamina_multiplier = 2.5
+			dagger_stamina_multiplier = 1.5
 			#Range: 0.0 ~ 10.0
-			sword_stamina_multiplier = 2.5
+			sword_stamina_multiplier = 1.5
 			#Range: 0.0 ~ 10.0
-			longsword_stamina_multiplier = 2.5
+			longsword_stamina_multiplier = 1.5
 			#Range: 0.0 ~ 10.0
-			greatsword_stamina_multiplier = 1.5
+			greatsword_stamina_multiplier = 1.0
 			#Range: 0.0 ~ 10.0
-			uchigatana_stamina_multiplier = 2.0
+			uchigatana_stamina_multiplier = 1.0
 			#Range: 0.0 ~ 10.0
-			tachi_stamina_multiplier = 2.0
+			tachi_stamina_multiplier = 1.0
 			#Range: 0.0 ~ 10.0
-			spear_stamina_multiplier = 2.5
+			spear_stamina_multiplier = 1.5
 			#Range: 0.0 ~ 10.0
-			knuckle_stamina_multiplier = 2.0
+			knuckle_stamina_multiplier = 1.0
 			#Range: 0.0 ~ 10.0
-			axe_stamina_multiplier = 2.5
+			axe_stamina_multiplier = 1.5
 
 		[stamina.weapons.fixed_cost]
 			#A fixed cost for all weapons under the given weapon types will be set.

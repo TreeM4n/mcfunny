@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:iron_sheet"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:iron_nugget",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "item": "create_netherless:netherite_fragment",
+      "count": 1,
+      "chance": 0.01
+    }
+  ],
+  "processingTime": 250
+}

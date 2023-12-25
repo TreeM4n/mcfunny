@@ -1,13 +1,12 @@
 obliterate enchantsments
 
-- rebounding
-- mending, infinity
+
 
 obliterate items
 
 - supreme measure
 - nuclear bomb
-- all from scaling health and bandages
+
 
 obliterate mobs
 
@@ -31,3 +30,5 @@ statue recipes
 quest 
 
  - monster hunter achievement gives sidestep skill
+
+- fix netherite farm
