@@ -1,18 +1,10 @@
-obliterate enchantsments
+#obliterate enchantsments
 
+#obliterate items
 
+#obliterate mobs
 
-obliterate items
-
-- supreme measure
-- nuclear bomb
-
-
-obliterate mobs
-
-
-
-buffing mobs
+#buffing mobs
 
 - iron golems, health and damage
 
@@ -23,12 +15,17 @@ buffing mobs
 
 damage idfk, watch out for difficulty
 
-statue recipes
+#statue recipes
 
 - idfk all
 
-quest 
+#quest 
 
  - monster hunter achievement gives sidestep skill
 
-- fix netherite farm
+#skilltree
+
+ - archer gets stamina + regen
+ - cook gets olaf passive per lost food
+ - add for each class gem based stuff like: smith - attack speed per gem in helmet + 1 gem .... if they dont have one which gives gem slots
+ - fix negative mage perks which only give bad stuff (dunno)
