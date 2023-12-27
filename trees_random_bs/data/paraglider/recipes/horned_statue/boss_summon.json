@@ -1,0 +1,21 @@
+{
+  "type": "paraglider:statue_bargain",
+  "bargainType": "paraglider:horned_statue",
+  "conditions": [
+    {
+      "type": "paraglider:heart_container_enabled"
+    }
+  ],
+  "demands": {
+    "essences": 1
+  },
+  "offers": {
+    
+    "items": [
+      {
+        "count": 1,
+        "item": "apotheosis:boss_summoner"
+      }
+    ]
+  }
+}

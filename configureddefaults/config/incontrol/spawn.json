@@ -6,7 +6,7 @@
     "when": "finalize",
     "result": "allow",
     "healthmultiply": 1,
-    "healthadd": 2000,
+    "healthadd": 8900,
     "damagemultiply": 2
   },
   {
