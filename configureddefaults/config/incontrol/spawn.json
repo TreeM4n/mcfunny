@@ -298,5 +298,85 @@
     "healthmultiply": 1,
     "healthadd": 1000,
     "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "twilightforest:naga"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 4500,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "twilightforest:lich"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 3200,
+    "damagemultiply": 1.3
+  },
+  {
+    "mob": [
+      "twilightforest:hydra"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 9600,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "twilightforest:knight_phantom"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 3600,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "twilightforest:minoshroom"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 14400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "twilightforest:ur_ghast"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 18200,
+    "damagemultiply": 2.5
+  },
+  {
+    "mob": [
+      "twilightforest:alpha_yeti"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 25700,
+    "damagemultiply": 3
+  },
+  {
+    "mob": [
+      "twilightforest:snow_queen"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 33600,
+    "damagemultiply": 4
   }
 ]

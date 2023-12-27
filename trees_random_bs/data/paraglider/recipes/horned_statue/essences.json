@@ -7,15 +7,16 @@
     }
   ],
   "demands": {
-    "essences": 2
-  },
-  "offers": {
-    
     "items": [
       {
-        "count": 1,
-        "item": "apotheosis:boss_summoner"
+        "count": 32,
+        "item": "minecraft:emerald"
       }
     ]
+  
+  },
+  "offers": {
+    "essences": 1
+    
   }
 }
