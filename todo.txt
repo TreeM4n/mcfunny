@@ -6,15 +6,6 @@
 
 #buffing mobs
 
-- iron golems, health and damage
-
-- all bosses, 
-	tier I 2k - 5k health, 
-	tier II 7k - 12k health,
-	tier III 18k - 25k health,
-
-damage idfk, watch out for difficulty
-
 #statue recipes
 
 - idfk all
