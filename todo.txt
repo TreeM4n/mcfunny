@@ -19,4 +19,4 @@
  - archer gets stamina + regen
  - cook gets olaf passive per lost food
  - add for each class gem based stuff like: smith - attack speed per gem in helmet + 1 gem .... if they dont have one which gives gem slots
- - fix negative mage perks which only give bad stuff (dunno)
+ - fix negative mage perks which only give bad stuff (dunno) no

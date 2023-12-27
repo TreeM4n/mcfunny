@@ -4,27 +4,12 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "8ef8a818-4efc-405a-bcb1-42869c36f774",
+      "id": "ce456785-377d-4090-9920-e66260466cf4",
       "name": "Skill",
-      "amount": 0.005,
+      "amount": 0.0075,
       "operation": 1,
       "player_multiplier": {
         "attribute": "irons_spellbooks:max_mana",
-        "type": "skilltree:attribute_value"
-      },
-      "player_condition": {
-        "type": "skilltree:none"
-      }
-    },
-    {
-      "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:spell_power",
-      "id": "42852351-ec7c-45b6-b4c0-272249c1569f",
-      "name": "Skill",
-      "amount": -0.01,
-      "operation": 1,
-      "player_multiplier": {
-        "attribute": "minecraft:generic.armor",
         "type": "skilltree:attribute_value"
       },
       "player_condition": {

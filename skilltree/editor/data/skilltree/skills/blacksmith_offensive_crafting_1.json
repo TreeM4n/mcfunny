@@ -2,31 +2,24 @@
   "id": "skilltree:blacksmith_offensive_crafting_1",
   "bonuses": [
     {
-      "type": "skilltree:crafted_item_bonus",
-      "item_condition": {
-        "weapon_type": "melee",
-        "type": "skilltree:weapon"
+      "type": "skilltree:damage",
+      "chance": 0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
       },
-      "item_bonus": {
-        "skill_bonus": {
-          "attribute": "minecraft:generic.attack_damage",
-          "id": "a922c157-9ffa-4c27-8aef-a341ddc72b9b",
-          "name": "SkillBonus",
-          "amount": 1.0,
-          "operation": 0,
-          "player_multiplier": {
-            "type": "skilltree:none"
-          },
-          "player_condition": {
-            "item_condition": {
-              "weapon_type": "melee",
-              "type": "skilltree:weapon"
-            },
-            "type": "skilltree:has_item_in_hand"
-          },
-          "type": "skilltree:attribute"
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "any",
+          "type": "skilltree:weapon"
         },
-        "type": "skilltree:skill_bonus"
+        "type": "skilltree:has_item_in_hand"
+      },
+      "damage_condition": {
+        "type": "skilltree:melee"
+      },
+      "target_condition": {
+        "type": "skilltree:none"
       }
     }
   ],

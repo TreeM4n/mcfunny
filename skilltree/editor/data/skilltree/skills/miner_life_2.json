@@ -3,11 +3,11 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:spell_power",
-      "id": "7cbd40fa-3eb7-490f-b78b-e1d243a52c06",
+      "attribute": "minecraft:generic.max_health",
+      "id": "ef5c1385-1aee-4d41-981c-5d2035eba3b3",
       "name": "SkillBonus",
-      "amount": -0.1,
-      "operation": 1,
+      "amount": 1.0,
+      "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
       },

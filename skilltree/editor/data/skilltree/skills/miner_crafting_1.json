@@ -14,6 +14,10 @@
       "player_condition": {
         "type": "skilltree:none"
       }
+    },
+    {
+      "type": "skilltree:recipe_unlock",
+      "recipe_id": "minecraft:stick"
     }
   ],
   "connectedSkills": [

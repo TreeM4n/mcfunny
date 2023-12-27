@@ -4,9 +4,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "d3fa4cb3-9f47-4232-a791-2cac1431cc21",
+      "id": "f5b70c97-ffd0-4cc6-a973-352e952ad968",
       "name": "Skill",
-      "amount": 0.75,
+      "amount": 1.0,
       "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -46,9 +46,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:cooldown_reduction",
-      "id": "44e41876-6850-4312-8fcb-8c5306a53e01",
+      "id": "c5fdabed-624a-439b-a73c-060d7acfe500",
       "name": "Skill",
-      "amount": -0.4,
+      "amount": -0.25,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"

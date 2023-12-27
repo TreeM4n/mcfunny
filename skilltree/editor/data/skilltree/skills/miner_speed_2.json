@@ -4,7 +4,7 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.attack_speed",
-      "id": "eacd548b-983e-4f78-b387-b39caad8aa0f",
+      "id": "4ac4da93-6cb2-4554-b0ef-2710d11efb90",
       "name": "SkillBonus",
       "amount": -0.05,
       "operation": 1,
@@ -17,6 +17,20 @@
           "type": "skilltree:weapon"
         },
         "type": "skilltree:has_item_in_hand"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:cast_time_reduction",
+      "id": "83eec227-b578-47c2-9b41-82beee7d52cb",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
       }
     }
   ],
