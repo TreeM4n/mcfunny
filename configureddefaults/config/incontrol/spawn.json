@@ -1,0 +1,302 @@
+[
+  {
+    "mob": [
+      "bosses_of_mass_destruction:void_blossom"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2000,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "minecraft:ender_dragon"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 6700,
+    "damagemultiply": 3
+  },
+  {
+    "mob": [
+      "minecraft:wither"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 3500,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "minecraft:elder_guardian"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1400,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "irons_spellbooks:necromancer"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2030,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:sir_pumpkinhead"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1020,
+    "damagemultiply": 1.2
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:sir_pumpkinhead_without_horse"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1020,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:sir_the_headless"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1020,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:pumpkinhead"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1020,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:lord_pumpkinhead"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:lord_pumpkinhead_withouta_horse"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:lord_pumpkinhead_head"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:lord_the_headless"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "aquamirae:captain_cornelia"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 3400,
+    "damagemultiply": 1.1
+  },
+  {
+    "mob": [
+      "cataclysm:ender_golem"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 11400,
+    "damagemultiply": 1.2
+  },
+  {
+    "mob": [
+      "cataclysm:ender_guardian"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 24400,
+    "damagemultiply": 2.5
+  },
+  {
+    "mob": [
+      "cataclysm:ignited_revenant"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 4400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "cataclysm:netherite_monstrosity"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 26900,
+    "damagemultiply": 3
+  },
+  {
+    "mob": [
+      "cataclysm:ignis"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 13800,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "cataclysm:the_harbinger"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 9200,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "cataclysm:the_leviathan"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 8400,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "bosses_of_mass_destruction:lich"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 4800,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "bosses_of_mass_destruction:obsidilith"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 22400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "bosses_of_mass_destruction:gauntlet"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 11700,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "alexsmobs:void_worm"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 12700,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "alexsmobs:void_worm_part"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "alexsmobs:warped_mosco"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 5400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "alexscaves:hullbreaker"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1000,
+    "damagemultiply": 1
+  },
+  {
+    "mob": [
+      "alexscaves:forsaken"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 12400,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "minecraft:iron_golem"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1000,
+    "damagemultiply": 2
+  }
+]

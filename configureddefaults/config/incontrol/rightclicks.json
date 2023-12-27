@@ -1,0 +1,12 @@
+[
+    {
+        "playerhelditem": "skilltree:wisdom_scroll",
+        "command": "improvedmobs difficulty player @p add 4",
+        "result": "allow"
+    },
+    {
+        "playerhelditem": "skilltree:amnesia_scroll",
+        "command": "improvedmobs difficulty player @p set 0",
+        "result": "allow"
+    }
+]
