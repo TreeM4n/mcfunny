@@ -8,8 +8,6 @@
 
 #statue recipes
 
-- idfk all
-
 #quest 
 
  - monster hunter achievement gives sidestep skill

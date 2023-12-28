@@ -50,7 +50,7 @@
         "triggers": {
           "dimensions": [],
           "entities": [
-            "minecraft:ender_dragon"
+            "born_in_chaos_v1:lord_pumpkinhead_head"
           ]
         },
         "messages": [
