@@ -21,16 +21,20 @@
     },
     {
       "type": "skilltree:attribute",
-      "attribute": "minecraft:generic.armor",
-      "id": "647baf29-d9bf-43cd-a962-121846ce6db5",
+      "attribute": "epicfight:stamina_regen",
+      "id": "23f5a4bf-3985-41c2-87ee-78658dc67bc9",
       "name": "Skill",
-      "amount": 1.0,
-      "operation": 0,
+      "amount": 0.05,
+      "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
       },
       "player_condition": {
-        "type": "skilltree:none"
+        "item_condition": {
+          "weapon_type": "ranged",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:has_item_in_hand"
       }
     }
   ],

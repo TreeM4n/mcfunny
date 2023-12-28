@@ -2,27 +2,21 @@
   "id": "skilltree:hunter_offensive_crafting_1",
   "bonuses": [
     {
-      "type": "skilltree:crafted_item_bonus",
-      "item_condition": {
-        "weapon_type": "ranged",
-        "type": "skilltree:weapon"
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "id": "f9da00f0-7d0a-4871-97fd-c327b48fed7b",
+      "name": "Skill",
+      "amount": 0.04,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
       },
-      "item_bonus": {
-        "skill_bonus": {
-          "attribute": "minecraft:generic.attack_speed",
-          "id": "09758d52-6df6-4bef-aee5-55251cf3b603",
-          "name": "SkillBonus",
-          "amount": 0.04,
-          "operation": 1,
-          "player_multiplier": {
-            "type": "skilltree:none"
-          },
-          "player_condition": {
-            "type": "skilltree:none"
-          },
-          "type": "skilltree:attribute"
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "ranged",
+          "type": "skilltree:weapon"
         },
-        "type": "skilltree:skill_bonus"
+        "type": "skilltree:has_item_in_hand"
       }
     }
   ],

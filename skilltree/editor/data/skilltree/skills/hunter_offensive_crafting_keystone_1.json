@@ -2,15 +2,12 @@
   "id": "skilltree:hunter_offensive_crafting_keystone_1",
   "bonuses": [
     {
-      "type": "skilltree:crafted_item_bonus",
+      "type": "skilltree:player_sockets",
       "item_condition": {
         "weapon_type": "ranged",
         "type": "skilltree:weapon"
       },
-      "item_bonus": {
-        "amount": 1,
-        "type": "skilltree:sockets"
-      }
+      "sockets": 1
     }
   ],
   "connectedSkills": [],

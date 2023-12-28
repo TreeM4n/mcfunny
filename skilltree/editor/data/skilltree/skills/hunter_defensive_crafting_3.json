@@ -10,9 +10,9 @@
       "item_bonus": {
         "skill_bonus": {
           "attribute": "skilltree:evasion",
-          "id": "0d79d4d9-60a0-4c71-a3eb-929df679fc93",
+          "id": "8c4757eb-80c3-4605-8025-bf5e9e4df067",
           "name": "SkillBonus",
-          "amount": 1.0,
+          "amount": 0.5,
           "operation": 0,
           "player_multiplier": {
             "type": "skilltree:none"
@@ -23,6 +23,20 @@
           "type": "skilltree:attribute"
         },
         "type": "skilltree:skill_bonus"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "epicfight:stamina_regen",
+      "id": "32989acc-5c64-4ffe-acce-7a70ecd89144",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
       }
     }
   ],

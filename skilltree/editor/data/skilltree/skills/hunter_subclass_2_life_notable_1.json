@@ -9,11 +9,11 @@
       },
       "item_bonus": {
         "skill_bonus": {
-          "attribute": "minecraft:generic.max_health",
-          "id": "058b25a0-9f33-43a9-9462-130cdf7932ce",
+          "attribute": "epicfight:stamina_regen",
+          "id": "adc46e15-94a1-4f99-8b99-d26d68298193",
           "name": "SkillBonus",
-          "amount": 5.0,
-          "operation": 0,
+          "amount": 0.25,
+          "operation": 1,
           "player_multiplier": {
             "type": "skilltree:none"
           },
@@ -23,6 +23,20 @@
           "type": "skilltree:attribute"
         },
         "type": "skilltree:skill_bonus"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "526afac7-b736-42c5-9d66-00a59882820e",
+      "name": "Skill",
+      "amount": 4.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
       }
     }
   ],

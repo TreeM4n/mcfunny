@@ -18,6 +18,24 @@
         },
         "type": "skilltree:has_item_in_hand"
       }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "epicfight:stamina_regen",
+      "id": "db87ee47-1839-4c36-a3e8-af402e1c034d",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "ranged",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:has_item_in_hand"
+      }
     }
   ],
   "connectedSkills": [

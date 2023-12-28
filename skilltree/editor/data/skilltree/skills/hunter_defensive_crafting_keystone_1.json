@@ -2,15 +2,12 @@
   "id": "skilltree:hunter_defensive_crafting_keystone_1",
   "bonuses": [
     {
-      "type": "skilltree:crafted_item_bonus",
+      "type": "skilltree:player_sockets",
       "item_condition": {
         "armor_type": "helmet",
         "type": "skilltree:armor"
       },
-      "item_bonus": {
-        "amount": 1,
-        "type": "skilltree:sockets"
-      }
+      "sockets": 1
     }
   ],
   "connectedSkills": [],

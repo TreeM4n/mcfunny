@@ -1,6 +1,21 @@
 {
   "id": "skilltree:alchemist_healing_notable_1",
-  "bonuses": [],
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:life_per_hit",
+      "id": "ee287237-4faf-4ef0-94d5-51dc359ede33",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:effect_amount"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
   "connectedSkills": [],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/notable.png",

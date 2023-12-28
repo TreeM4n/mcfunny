@@ -8,7 +8,7 @@
         "type": "skilltree:curio"
       },
       "item_bonus": {
-        "chance": 25.0,
+        "chance": 50.0,
         "operation": 0,
         "type": "skilltree:quiver_capacity"
       }

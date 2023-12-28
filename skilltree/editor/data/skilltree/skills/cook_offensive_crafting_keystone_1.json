@@ -4,12 +4,54 @@
     {
       "type": "skilltree:attribute",
       "attribute": "skilltree:life_per_hit",
-      "id": "adc1a598-9eaa-4b4e-8e4a-b422abfc6575",
+      "id": "8df1533d-6476-43cc-8703-f5631744df7b",
       "name": "Skill",
-      "amount": 0.1,
+      "amount": -0.3,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:food_level"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "skilltree:life_per_hit",
+      "id": "2a99b725-aae1-41de-bbf1-3ea4338a3d20",
+      "name": "Skill",
+      "amount": 6.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "id": "660f0b5b-0a78-441a-8018-1aab1414aa82",
+      "name": "Skill",
+      "amount": -0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:food_level"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "id": "f0a16342-75ef-4d8c-bba0-8b294efcf5c5",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
       },
       "player_condition": {
         "type": "skilltree:none"
@@ -21,9 +63,10 @@
   "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
   "iconTexture": "skilltree:textures/icons/cook_offensive_crafting_keystone_1.png",
   "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "title": "Not Olaf Passive Trust",
   "titleColor": "",
-  "positionX": 92.98723,
-  "positionY": -335.04144,
+  "positionX": 92.99,
+  "positionY": -335.04,
   "buttonSize": 24,
   "isStartingPoint": false
 }
