@@ -6,8 +6,10 @@
     "refinedstorage:wireless_fluid_grid",
     "refinedstorage:wireless_transmitter",
     "refinedstorage:wireless_crafting_monitor",
+    "refinedstorage:crafter",
     "refinedstorage:constructor",
-    "refinedstorage:destructor"
+    "refinedstorage:destructor",
+    "alexscaves:nuclear_furnace_component"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
