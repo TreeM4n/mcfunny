@@ -4,9 +4,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "ce456785-377d-4090-9920-e66260466cf4",
+      "id": "24ce6c36-8841-4a6f-bd95-71068c95f5b6",
       "name": "Skill",
-      "amount": 0.0075,
+      "amount": 5.0E-4,
       "operation": 1,
       "player_multiplier": {
         "attribute": "irons_spellbooks:max_mana",

@@ -3,11 +3,11 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:evasion",
-      "id": "f1107fcd-77dc-4411-88b1-289e7cbecf5c",
+      "attribute": "irons_spellbooks:cast_time_reduction",
+      "id": "b799775d-4c2b-454f-ba0e-c4a1979bf178",
       "name": "SkillBonus",
-      "amount": 1.0,
-      "operation": 0,
+      "amount": 0.05,
+      "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
       },

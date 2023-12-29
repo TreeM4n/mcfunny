@@ -2,11 +2,61 @@
   "id": "skilltree:enchanter_mastery",
   "bonuses": [
     {
-      "type": "skilltree:enchantment_amplification",
-      "enchantment_condition": {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.armor",
+      "id": "a67816c2-9e71-4a60-9d03-90bacaa65235",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "item_condition": {
+          "armor_type": "helmet",
+          "type": "skilltree:armor"
+        },
+        "type": "skilltree:enchants_amount"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:damage",
+      "chance": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "item_condition": {
+          "weapon_type": "any",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:enchants_amount"
+      },
+      "player_condition": {
         "type": "skilltree:none"
       },
-      "chance": 1.0
+      "damage_condition": {
+        "type": "skilltree:none"
+      },
+      "target_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "dc5c5146-2626-435c-a868-80c39030dafc",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "item_condition": {
+          "armor_type": "boots",
+          "type": "skilltree:armor"
+        },
+        "type": "skilltree:enchants_amount"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [],

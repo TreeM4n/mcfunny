@@ -3,24 +3,10 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:mana_regen",
-      "id": "86140855-1b01-42ae-935c-9672e4b93268",
-      "name": "Skill",
-      "amount": 0.5,
-      "operation": 0,
-      "player_multiplier": {
-        "type": "skilltree:none"
-      },
-      "player_condition": {
-        "type": "skilltree:none"
-      }
-    },
-    {
-      "type": "skilltree:attribute",
       "attribute": "minecraft:generic.armor",
-      "id": "be751781-8c4a-4c9e-aa87-0790b75849a5",
+      "id": "13d90326-dd1b-4cb0-9f7d-acb2f71c7cca",
       "name": "Skill",
-      "amount": -5.0,
+      "amount": -10.0,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -32,9 +18,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.armor_toughness",
-      "id": "2dae4bff-2982-442d-8996-4615fcb9cfd5",
+      "id": "fe26fbe4-c8d0-431d-aab9-23b697844fff",
       "name": "Skill",
-      "amount": -5.0,
+      "amount": -10.0,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -46,9 +32,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.max_health",
-      "id": "2cd4bacb-7727-444b-8765-f11c2378401f",
+      "id": "72bad6b8-094d-483f-8c25-5a694835a03f",
       "name": "Skill",
-      "amount": -8.0,
+      "amount": -5.0,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -63,6 +49,20 @@
       "id": "0d39d839-96e1-4a47-aa4f-4e15ee315277",
       "name": "Skill",
       "amount": 1.0,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:mana_regen",
+      "id": "2c92c3f4-3592-431a-a85f-f29b4dc78a09",
+      "name": "Skill",
+      "amount": 0.25,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
