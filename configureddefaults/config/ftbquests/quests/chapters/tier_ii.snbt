@@ -3,24 +3,24 @@
 	default_quest_shape: ""
 	filename: "tier_ii"
 	group: ""
-	id: "20B724DDD29BFD4D"
+	id: "7375234E1A2283F4"
 	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
-			id: "2FF7ECAED5C4B662"
+			id: "3AC68B6ADCC3501A"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "1692985E0224839C"
+					id: "68DDAE37978AF225"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "635B4D35853D39F5"
+					id: "6457A3341A63ED15"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -28,7 +28,7 @@
 			tasks: [{
 				entity: "born_in_chaos_v1:lord_pumpkinhead_head"
 				icon: "minecraft:carved_pumpkin"
-				id: "6772D48770E529E0"
+				id: "5B15D4D657C0AC25"
 				type: "kill"
 				value: 1L
 			}]
@@ -36,19 +36,19 @@
 			y: -3.5d
 		}
 		{
-			id: "2C633B6D7B2E3BD5"
+			id: "48DD86F4836FBB29"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "4535D2D278C2DD39"
+					id: "6393359B80E00F78"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "2C18810DCC562A53"
+					id: "7655720F608D9092"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -56,7 +56,7 @@
 			tasks: [{
 				entity: "minecraft:wither"
 				icon: "minecraft:wither_skeleton_skull"
-				id: "6FC64E18F4D31386"
+				id: "1EB745AC21C76D80"
 				type: "kill"
 				value: 1L
 			}]
@@ -64,19 +64,19 @@
 			y: -3.5d
 		}
 		{
-			id: "5CFAE1997372F595"
+			id: "5A1A0D4461B64ABC"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "658D93009351F7ED"
+					id: "29A8B6BB93EEB68F"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "79408743FEBD5659"
+					id: "7AC5A4463BE98BA0"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -84,7 +84,7 @@
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
 				icon: "minecraft:magma_block"
-				id: "1451463481804D39"
+				id: "01F3491482B60E5A"
 				type: "kill"
 				value: 1L
 			}]
@@ -92,19 +92,19 @@
 			y: -6.5d
 		}
 		{
-			id: "1973C63907276073"
+			id: "761B924BAEFBABA5"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "2AC34021D6523B98"
+					id: "3CB488B52BA7DA8A"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "161F14CFB9F4D30E"
+					id: "7066D5B98A5B8985"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -112,7 +112,7 @@
 			tasks: [{
 				entity: "bosses_of_mass_destruction:gauntlet"
 				icon: "bosses_of_mass_destruction:blazing_eye"
-				id: "5774845BD0ED72A2"
+				id: "53475AF88954D53D"
 				type: "kill"
 				value: 1L
 			}]
@@ -120,19 +120,19 @@
 			y: -3.5d
 		}
 		{
-			id: "345F71461739A3C3"
+			id: "442A7451184C67F6"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "7539279300568297"
+					id: "13E378780F5BFA65"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "15CA5BD7EBAC1AE6"
+					id: "054B96AB734D8BF9"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -140,7 +140,7 @@
 			tasks: [{
 				entity: "bosses_of_mass_destruction:void_blossom"
 				icon: "bosses_of_mass_destruction:void_thorn"
-				id: "49E8593C27E34B73"
+				id: "5D2BA1FD846BDA9C"
 				type: "kill"
 				value: 1L
 			}]
@@ -148,19 +148,19 @@
 			y: -5.0d
 		}
 		{
-			id: "7BE4B3B5B23BA285"
+			id: "798D14DBADE77319"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "5CC41F8245B88D8E"
+					id: "5E264B292FACE4CC"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "1B7F89F8ED761E8E"
+					id: "6BC39725BB19317E"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -168,7 +168,7 @@
 			tasks: [{
 				entity: "alexsmobs:warped_mosco"
 				icon: "alexsmobs:warped_muscle"
-				id: "4350A3545D5FB42B"
+				id: "07AF258C382285D6"
 				type: "kill"
 				value: 1L
 			}]
@@ -176,19 +176,19 @@
 			y: -5.0d
 		}
 		{
-			id: "0554C2893F35FBB4"
+			id: "4E924ABAAC717B03"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "62B3FB824C9CC3DC"
+					id: "54A058F56E180965"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "4167C7330111CF39"
+					id: "58A20CFE1EEB4C0F"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -196,7 +196,7 @@
 			tasks: [{
 				entity: "alexscaves:forsaken"
 				icon: "alexscaves:pure_darkness"
-				id: "75855BB3DB716413"
+				id: "3D57DD8353F2E114"
 				type: "kill"
 				value: 1L
 			}]

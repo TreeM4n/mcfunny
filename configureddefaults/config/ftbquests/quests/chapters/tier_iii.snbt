@@ -3,24 +3,24 @@
 	default_quest_shape: ""
 	filename: "tier_iii"
 	group: ""
-	id: "659496FCDE8DBEAC"
+	id: "66971C4E0EE68357"
 	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
-			id: "7051C2EFBB7CD6AE"
+			id: "7AA3845A68376865"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "02D525214E10DC02"
+					id: "04E5DBA7D54C1C1D"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "21330D5EF2EFDFAD"
+					id: "4DE88C3B0D805372"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -28,7 +28,7 @@
 			tasks: [{
 				entity: "minecraft:ender_dragon"
 				icon: "minecraft:dragon_head"
-				id: "143F760412D1ED78"
+				id: "18A15B30EF6A7954"
 				type: "kill"
 				value: 1L
 			}]
@@ -36,19 +36,19 @@
 			y: -2.0d
 		}
 		{
-			id: "3FB6F69DB7B2F7AC"
+			id: "41FE0AE876286A55"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "4490C3ADE3FE997F"
+					id: "4CBA481064AF9842"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "18C9E73723D8EE84"
+					id: "200A26573EE22C39"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -56,7 +56,7 @@
 			tasks: [{
 				entity: "cataclysm:ender_guardian"
 				icon: "cataclysm:gauntlet_of_guard"
-				id: "5D593552E697DBB0"
+				id: "6AC278C8136391AD"
 				type: "kill"
 				value: 1L
 			}]
@@ -64,19 +64,19 @@
 			y: -3.5d
 		}
 		{
-			id: "3B09FA2B1A8A254B"
+			id: "105C15A821B917DA"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "6A4745BB9AFB052F"
+					id: "001FF7276652E53D"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "0E95EAAD9B6302F7"
+					id: "41CCDB1227EF557A"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -84,7 +84,7 @@
 			tasks: [{
 				entity: "cataclysm:ignis"
 				icon: "cataclysm:ignitium_ingot"
-				id: "04297BB9D9DFA22A"
+				id: "35C8CB342D144E07"
 				type: "kill"
 				value: 1L
 			}]
@@ -92,19 +92,19 @@
 			y: -2.0d
 		}
 		{
-			id: "6E8B996D1588E51E"
+			id: "3E00A0A96EF5DB5F"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "7056DFA50DEB8B74"
+					id: "62349BA1E0668D99"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "498A36FEBA0F7489"
+					id: "7BD6B7B3A5893A24"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -112,7 +112,7 @@
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
 				icon: "cataclysm:witherite_block"
-				id: "378AF24094BE4117"
+				id: "42E0A5C18DB5B4A8"
 				type: "kill"
 				value: 1L
 			}]
@@ -120,19 +120,19 @@
 			y: -3.5d
 		}
 		{
-			id: "07D5FD4D8BB83D89"
+			id: "2537569299B0F5A0"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "7F625AC806325E80"
+					id: "611B8EC51F2F40FC"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "11426D4E1BA472AF"
+					id: "318AF5F793E97817"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -140,7 +140,7 @@
 			tasks: [{
 				entity: "cataclysm:the_leviathan"
 				icon: "cataclysm:abyssal_egg"
-				id: "21961C26E946D98C"
+				id: "68CBED6D3B1C8C56"
 				type: "kill"
 				value: 1L
 			}]
@@ -148,19 +148,19 @@
 			y: -3.5d
 		}
 		{
-			id: "02F622BC0D21DE3A"
+			id: "038CA860011BC1A4"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "5D69F5498128E41E"
+					id: "6878C631B44AD09C"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "1D00EFC1BD8B8260"
+					id: "18B2F9550611FDCA"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -168,7 +168,7 @@
 			tasks: [{
 				entity: "bosses_of_mass_destruction:obsidilith"
 				icon: "minecraft:obsidian"
-				id: "4318AB6E643D1E0F"
+				id: "750E01C01B64F366"
 				type: "kill"
 				value: 1L
 			}]
@@ -176,19 +176,19 @@
 			y: -5.0d
 		}
 		{
-			id: "55BA883BC0E29DF9"
+			id: "2358FB5F9BE696E3"
 			rewards: [
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "2C641474E59925F6"
+					id: "35AAE9BD3F5DAED5"
 					table_id: 86177905300071866L
 					type: "loot"
 				}
 				{
 					auto: "enabled"
 					exclude_from_claim_all: true
-					id: "27DAEC236081F17F"
+					id: "1D320F1C1785C252"
 					table_id: 1082676893625130880L
 					type: "loot"
 				}
@@ -197,7 +197,7 @@
 				advancement: "alexsmobs:alexsmobs/void_worm_kill"
 				criterion: ""
 				icon: "alexsmobs:void_worm_eye"
-				id: "27CA4F36D6407CE6"
+				id: "4FE5F2C43105EA26"
 				type: "advancement"
 			}]
 			x: -4.5d

@@ -103,6 +103,23 @@
 			x: 4.5d
 			y: 0.0d
 		}
+		{
+			id: "6165573284A005FA"
+			rewards: [{
+				id: "7FC90710805127F7"
+				item: "paraglider:horned_statue"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/mine_stone"
+				criterion: ""
+				icon: "minecraft:cobblestone"
+				id: "1ECABB60F1F0656F"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
 	]
 	title: "Aw Man"
 }
