@@ -4,7 +4,7 @@
 'legs' : '',
 'feet' : '',
 0 : '',
-1 : '',
+1 : '{Count:1b,id:"ftbquests:book"}',
 2 : '{Count:8b,id:"farmersdelight:fish_stew"}',
 3 : '',
 4 : '',

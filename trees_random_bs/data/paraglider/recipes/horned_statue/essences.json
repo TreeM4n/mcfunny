@@ -9,19 +9,20 @@
   "demands": {
     "items": [
       {
-        "count": 32,
-        "item": "minecraft:emerald"
+        "ingredient": {
+          "item": "minecraft:emerald"
+        },
+        "quantity": 32
       }
     ]
-  
   },
   "offers": {
+    
     "items": [
       {
         "count": 1,
         "item": "paraglider:spirit_orb"
       }
     ]
-    
   }
 }
