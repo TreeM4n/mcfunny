@@ -1,0 +1,11 @@
+{
+	id: "66C4F92540211950"
+	loot_size: 1
+	order_index: 3
+	rewards: [{
+		command: "/improvedmobs difficulty player @p add 7.5"
+		icon: "apotheosis:boss_summoner"
+		type: "command"
+	}]
+	title: "Difficulty"
+}

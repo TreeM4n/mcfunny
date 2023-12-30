@@ -1,0 +1,220 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_iii"
+	group: ""
+	id: "66971C4E0EE68357"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7AA3845A68376865"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "04E5DBA7D54C1C1D"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "4DE88C3B0D805372"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+				{
+					auto: "disabled"
+					id: "0E6020899CC6B5B2"
+					item: {
+						Count: 1b
+						id: "minecraft:elytra"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "18A15B30EF6A7954"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "41FE0AE876286A55"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "4CBA481064AF9842"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "200A26573EE22C39"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:gauntlet_of_guard"
+				id: "6AC278C8136391AD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			id: "105C15A821B917DA"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "001FF7276652E53D"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "41CCDB1227EF557A"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "cataclysm:ignitium_ingot"
+				id: "35C8CB342D144E07"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "3E00A0A96EF5DB5F"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "62349BA1E0668D99"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "7BD6B7B3A5893A24"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:witherite_block"
+				id: "42E0A5C18DB5B4A8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "2537569299B0F5A0"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "611B8EC51F2F40FC"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "318AF5F793E97817"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:abyssal_egg"
+				id: "68CBED6D3B1C8C56"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			id: "038CA860011BC1A4"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "6878C631B44AD09C"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "18B2F9550611FDCA"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				icon: "minecraft:obsidian"
+				id: "750E01C01B64F366"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "2358FB5F9BE696E3"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "35AAE9BD3F5DAED5"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "1D320F1C1785C252"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_kill"
+				criterion: ""
+				icon: "alexsmobs:void_worm_eye"
+				id: "4FE5F2C43105EA26"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+	]
+	title: "Tier III"
+}

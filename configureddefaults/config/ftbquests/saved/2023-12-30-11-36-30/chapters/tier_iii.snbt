@@ -1,0 +1,209 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_iii"
+	group: "267825623203CE9D"
+	icon: "minecraft:end_stone"
+	id: "659496FCDE8DBEAC"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7051C2EFBB7CD6AE"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "02D525214E10DC02"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "21330D5EF2EFDFAD"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "143F760412D1ED78"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "3FB6F69DB7B2F7AC"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "4490C3ADE3FE997F"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "18C9E73723D8EE84"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:gauntlet_of_guard"
+				id: "5D593552E697DBB0"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			id: "3B09FA2B1A8A254B"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "6A4745BB9AFB052F"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "0E95EAAD9B6302F7"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "cataclysm:ignitium_ingot"
+				id: "04297BB9D9DFA22A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "6E8B996D1588E51E"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "7056DFA50DEB8B74"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "498A36FEBA0F7489"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:witherite_block"
+				id: "378AF24094BE4117"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "07D5FD4D8BB83D89"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "7F625AC806325E80"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "11426D4E1BA472AF"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:abyssal_egg"
+				id: "21961C26E946D98C"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			id: "02F622BC0D21DE3A"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "5D69F5498128E41E"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "1D00EFC1BD8B8260"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				icon: "minecraft:obsidian"
+				id: "4318AB6E643D1E0F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "55BA883BC0E29DF9"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "2C641474E59925F6"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "27DAEC236081F17F"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "alexsmobs:alexsmobs/void_worm_kill"
+				criterion: ""
+				icon: "alexsmobs:void_worm_eye"
+				id: "27CA4F36D6407CE6"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+	]
+	title: "Tier III"
+}
