@@ -14,20 +14,6 @@
       "player_condition": {
         "type": "skilltree:none"
       }
-    },
-    {
-      "type": "skilltree:attribute",
-      "attribute": "skilltree:exp_per_minute",
-      "id": "14258660-21e8-499a-88cb-4256c1704cdd",
-      "name": "SkillBonus",
-      "amount": 0.1,
-      "operation": 0,
-      "player_multiplier": {
-        "type": "skilltree:none"
-      },
-      "player_condition": {
-        "type": "skilltree:none"
-      }
     }
   ],
   "connectedSkills": [],

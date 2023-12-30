@@ -10,9 +10,9 @@
       "item_bonus": {
         "skill_bonus": {
           "attribute": "minecraft:generic.armor",
-          "id": "39f76284-801f-4206-92af-aa018c04a357",
+          "id": "3ecdf7ac-5273-43f0-a573-7cfcf7901556",
           "name": "SkillBonus",
-          "amount": 0.1,
+          "amount": 1.0,
           "operation": 0,
           "player_multiplier": {
             "type": "skilltree:none"
@@ -23,6 +23,20 @@
           "type": "skilltree:attribute"
         },
         "type": "skilltree:skill_bonus"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "904e7530-fb55-4890-80ec-94dee132a38d",
+      "name": "Skill",
+      "amount": -0.03,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
       }
     }
   ],

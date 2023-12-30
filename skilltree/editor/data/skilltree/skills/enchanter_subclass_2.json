@@ -3,10 +3,24 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:exp_per_minute",
-      "id": "914ee75d-bd6c-474c-a604-723c31a65cb7",
+      "attribute": "attributeslib:mining_speed",
+      "id": "bde3c641-b50f-40b0-b302-3db30e343a06",
       "name": "SkillBonus",
-      "amount": 2.0,
+      "amount": 0.25,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.luck",
+      "id": "0d311e82-5113-485e-b200-0d8a1f991a11",
+      "name": "Skill",
+      "amount": 0.5,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -22,7 +36,7 @@
   ],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/class.png",
-  "iconTexture": "skilltree:textures/icons/enchanter_subclass_2.png",
+  "iconTexture": "skilltree:textures/icons/miner_class.png",
   "borderTexture": "skilltree:textures/tooltip/keystone.png",
   "titleColor": "",
   "positionX": 200.40228,

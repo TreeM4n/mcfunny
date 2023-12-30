@@ -3,10 +3,24 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:exp_per_minute",
-      "id": "7144f5db-7cb3-4d87-8344-1e10c1fbd1d8",
+      "attribute": "forge:block_reach",
+      "id": "4e36793c-e005-4db7-b43f-b663c6cc549f",
       "name": "SkillBonus",
-      "amount": 1.5,
+      "amount": 2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.luck",
+      "id": "9517fbcb-8ba6-428b-8928-a91e74a05693",
+      "name": "Skill",
+      "amount": 1.0,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"

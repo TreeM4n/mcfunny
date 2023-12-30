@@ -3,10 +3,10 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:exp_per_minute",
-      "id": "6049176f-d0ba-4edf-ac19-084822c55f6e",
+      "attribute": "attributeslib:mining_speed",
+      "id": "61a50cb8-5186-4a0d-91cd-3469216494b9",
       "name": "SkillBonus",
-      "amount": 0.2,
+      "amount": 0.1,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -22,7 +22,7 @@
   ],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
-  "iconTexture": "skilltree:textures/icons/enchanter_subclass_2_crafting_1.png",
+  "iconTexture": "skilltree:textures/icons/miner_lesser_1.png",
   "borderTexture": "skilltree:textures/tooltip/lesser.png",
   "titleColor": "",
   "positionX": 238.92113,

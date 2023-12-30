@@ -4,13 +4,12 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "fe3a58a7-7fd0-4a1a-a6d6-75101cee43d3",
+      "id": "7a588b32-42d0-43ec-8810-4d3f876ecc8b",
       "name": "Skill",
-      "amount": 0.1,
+      "amount": 0.05,
       "operation": 1,
       "player_multiplier": {
-        "attribute": "minecraft:generic.movement_speed",
-        "type": "skilltree:attribute_value"
+        "type": "skilltree:distance_to_target"
       },
       "player_condition": {
         "type": "skilltree:none"

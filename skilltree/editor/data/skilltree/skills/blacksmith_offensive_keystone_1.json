@@ -3,10 +3,10 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "minecraft:generic.attack_damage",
-      "id": "270d95ee-7c31-4d40-b368-733ceaa5f21e",
+      "attribute": "minecraft:generic.max_health",
+      "id": "727876d9-6db5-463f-8935-58bccbe64d93",
       "name": "SkillBonus",
-      "amount": 0.1,
+      "amount": 0.12,
       "operation": 0,
       "player_multiplier": {
         "attribute": "minecraft:generic.armor",

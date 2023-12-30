@@ -10,9 +10,9 @@
       "item_bonus": {
         "skill_bonus": {
           "attribute": "minecraft:generic.armor",
-          "id": "50cb673f-392f-496d-a0b7-bf3c9b6fee1b",
+          "id": "6c880067-45a2-4276-afff-73f1ce705ba2",
           "name": "SkillBonus",
-          "amount": 1.0,
+          "amount": 2.0,
           "operation": 0,
           "player_multiplier": {
             "type": "skilltree:none"

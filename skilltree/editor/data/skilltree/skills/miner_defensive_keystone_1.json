@@ -1,10 +1,19 @@
 {
   "id": "skilltree:miner_defensive_keystone_1",
-  "bonuses": [],
+  "bonuses": [
+    {
+      "type": "skilltree:player_sockets",
+      "item_condition": {
+        "armor_type": "helmet",
+        "type": "skilltree:armor"
+      },
+      "sockets": 1
+    }
+  ],
   "connectedSkills": [],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
-  "iconTexture": "skilltree:textures/icons/miner_defensive_keystone_1.png",
+  "iconTexture": "skilltree:textures/icons/hunter_defensive_crafting_keystone_1.png",
   "borderTexture": "skilltree:textures/tooltip/keystone.png",
   "titleColor": "",
   "positionX": -301.6938,

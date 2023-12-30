@@ -3,11 +3,11 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:blocking",
-      "id": "56c0571f-3d16-411b-8aa7-ca9844387b60",
+      "attribute": "attributeslib:mining_speed",
+      "id": "90cf9312-741b-4358-ab11-7d10d613f71e",
       "name": "SkillBonus",
-      "amount": 1.0,
-      "operation": 0,
+      "amount": 0.1,
+      "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
       },
@@ -21,7 +21,7 @@
   ],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
-  "iconTexture": "skilltree:textures/icons/enchanter_subclass_2_defensive_1.png",
+  "iconTexture": "skilltree:textures/icons/miner_lesser_1.png",
   "borderTexture": "skilltree:textures/tooltip/lesser.png",
   "titleColor": "",
   "positionX": 172.68896,

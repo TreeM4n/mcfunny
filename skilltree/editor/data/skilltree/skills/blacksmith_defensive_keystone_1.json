@@ -32,6 +32,38 @@
         "min": 100.0,
         "type": "skilltree:attribute_value"
       }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "ad727973-a174-47bd-be12-33ac5d57a329",
+      "name": "Skill",
+      "amount": -0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "attribute": "minecraft:generic.armor",
+        "min": 50.0,
+        "type": "skilltree:attribute_value"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "bba9b15a-442b-4b1a-9577-6a48f5fedb29",
+      "name": "Skill",
+      "amount": -0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "attribute": "minecraft:generic.armor",
+        "min": 100.0,
+        "type": "skilltree:attribute_value"
+      }
     }
   ],
   "connectedSkills": [],

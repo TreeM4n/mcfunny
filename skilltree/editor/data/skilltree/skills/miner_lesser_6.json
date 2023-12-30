@@ -2,14 +2,18 @@
   "id": "skilltree:miner_lesser_6",
   "bonuses": [
     {
-      "type": "skilltree:block_break_speed",
-      "player_condition": {
-        "item_condition": {
-          "type": "skilltree:pickaxe"
-        },
-        "type": "skilltree:has_item_in_hand"
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "af50eee1-0674-4af3-a18a-6eebbaa4b05e",
+      "name": "Skill",
+      "amount": 0.075,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
       },
-      "multiplier": 0.05
+      "player_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [
@@ -17,7 +21,7 @@
   ],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
-  "iconTexture": "skilltree:textures/icons/miner_lesser_1.png",
+  "iconTexture": "skilltree:textures/icons/miner_subclass_2_crafting_1.png",
   "borderTexture": "skilltree:textures/tooltip/lesser.png",
   "titleColor": "",
   "positionX": -325.22516,
