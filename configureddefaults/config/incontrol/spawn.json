@@ -378,5 +378,15 @@
     "healthmultiply": 1,
     "healthadd": 33600,
     "damagemultiply": 4
+  },
+  {
+    "mob": [
+      "minecraft:ender_dragon"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 12900,
+    "damagemultiply": 3
   }
 ]
