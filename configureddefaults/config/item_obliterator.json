@@ -9,7 +9,8 @@
     "refinedstorage:crafter",
     "refinedstorage:constructor",
     "refinedstorage:destructor",
-    "alexscaves:nuclear_furnace_component"
+    "alexscaves:nuclear_furnace_component",
+    "bosses_of_mass_destruction:levitation_block"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
