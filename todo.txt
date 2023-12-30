@@ -20,3 +20,6 @@
  - fix negative mage perks which only give bad stuff (dunno) no
 - buff quiver
 - enchanter 100% cucken stattdessen armor pro enchant und dmg pro enchant usw
+
+
+Easy Anvils ist immer noch weird mit Apotheosis
