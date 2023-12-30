@@ -4,7 +4,7 @@
 'legs' : '',
 'feet' : '',
 0 : '',
-1 : '{Count:10b,id:"skilltree:wisdom_scroll"}',
+1 : '',
 2 : '{Count:8b,id:"farmersdelight:fish_stew"}',
 3 : '',
 4 : '',

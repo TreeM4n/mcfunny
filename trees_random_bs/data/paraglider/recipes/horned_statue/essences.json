@@ -16,7 +16,12 @@
   
   },
   "offers": {
-    "essences": 1
+    "items": [
+      {
+        "count": 1,
+        "item": "paraglider:spirit_orb"
+      }
+    ]
     
   }
 }

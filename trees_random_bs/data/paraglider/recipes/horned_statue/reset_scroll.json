@@ -7,7 +7,14 @@
     }
   ],
   "demands": {
-    "essences": 12
+    "items": [
+      {
+        "ingredient": {
+          "item": "paraglider:spirit_orb"
+        },
+        "quantity": 12
+      }
+    ]
   },
   "offers": {
     

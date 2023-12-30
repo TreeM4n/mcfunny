@@ -48,9 +48,8 @@
           "BOLD"
         ],
         "triggers": {
-          "dimensions": [],
-          "entities": [
-            "born_in_chaos_v1:lord_pumpkinhead_head"
+          "dimensions": ["minecraft:the_end"],
+          "entities": [           
           ]
         },
         "messages": [
