@@ -109,6 +109,8 @@
 		water_creature = false
 		water_ambient = false
 		misc = false
+		cave_creature = false
+		deep_sea_creature = false
 
 [[modules_right]]
 	name = "system"
@@ -122,8 +124,8 @@
 		time = true
 		java_version = false
 		memory_usage = true
-		allocation_rate = false
-		allocated_memory = false
+		allocation_rate = true
+		allocated_memory = true
 		cpu = false
 		display = false
 		gpu = false
