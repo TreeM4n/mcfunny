@@ -111,6 +111,10 @@
 		misc = false
 		cave_creature = false
 		deep_sea_creature = false
+		aether_surface_monster = false
+		aether_darkness_monster = false
+		aether_sky_monster = false
+		aether_aerwhale = false
 
 [[modules_right]]
 	name = "system"
