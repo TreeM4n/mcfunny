@@ -3,10 +3,10 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:mana_regen",
-      "id": "8aab0670-e769-4ec7-ba49-b5b00049d614",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "98f16e6e-50ec-4999-b762-dc672b2ebc40",
       "name": "Skill",
-      "amount": 0.5,
+      "amount": 25.0,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -16,17 +16,15 @@
       }
     },
     {
-      "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:max_mana",
-      "id": "ae39dc2f-9f20-4a69-ac20-2dd8f0f12e9f",
-      "name": "Skill",
-      "amount": 0.2,
-      "operation": 2,
-      "player_multiplier": {
-        "type": "skilltree:none"
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "type": "skilltree:food"
       },
-      "player_condition": {
-        "type": "skilltree:none"
+      "item_bonus": {
+        "effect": "irons_spellbooks:instant_mana",
+        "duration": 0,
+        "amplifier": 0,
+        "type": "skilltree:food_effect"
       }
     }
   ],

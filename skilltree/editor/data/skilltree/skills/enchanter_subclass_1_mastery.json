@@ -47,6 +47,27 @@
       "target_condition": {
         "type": "skilltree:burning"
       }
+    },
+    {
+      "type": "skilltree:damage",
+      "chance": 0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "weapon_type": "any",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:has_item_in_hand"
+      },
+      "damage_condition": {
+        "type": "skilltree:melee"
+      },
+      "target_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [

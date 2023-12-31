@@ -4,9 +4,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:max_mana",
-      "id": "d2c9e952-cde9-4a68-8939-3f1656942dd4",
+      "id": "abc8f341-597d-4e1f-8b63-5a95ba864196",
       "name": "Skill",
-      "amount": 100.0,
+      "amount": 50.0,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -39,9 +39,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:mana_regen",
-      "id": "0635bcde-4fc5-43c7-a04b-fd01097dfcc5",
+      "id": "52d409dd-6cbe-4cae-a332-fa360a1aa23f",
       "name": "Skill",
-      "amount": -0.8,
+      "amount": -0.9,
       "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"

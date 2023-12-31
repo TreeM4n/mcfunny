@@ -4,10 +4,10 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.armor",
-      "id": "13d90326-dd1b-4cb0-9f7d-acb2f71c7cca",
+      "id": "ff3111b5-29d5-460d-8b36-9e35a20b029e",
       "name": "Skill",
-      "amount": -10.0,
-      "operation": 0,
+      "amount": -0.2,
+      "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"
       },
@@ -18,10 +18,10 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.armor_toughness",
-      "id": "fe26fbe4-c8d0-431d-aab9-23b697844fff",
+      "id": "552db7d2-07f9-4654-b618-5b466e2fff4c",
       "name": "Skill",
-      "amount": -10.0,
-      "operation": 0,
+      "amount": -0.15,
+      "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"
       },
@@ -32,9 +32,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.max_health",
-      "id": "72bad6b8-094d-483f-8c25-5a694835a03f",
+      "id": "388dd84b-8ba9-44be-a613-668214e66083",
       "name": "Skill",
-      "amount": -5.0,
+      "amount": -0.2,
       "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
@@ -46,23 +46,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "0d39d839-96e1-4a47-aa4f-4e15ee315277",
+      "id": "f91eebbd-f525-4e64-8cbc-c32f80a7f70a",
       "name": "Skill",
-      "amount": 1.0,
-      "operation": 1,
-      "player_multiplier": {
-        "type": "skilltree:none"
-      },
-      "player_condition": {
-        "type": "skilltree:none"
-      }
-    },
-    {
-      "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:mana_regen",
-      "id": "2c92c3f4-3592-431a-a85f-f29b4dc78a09",
-      "name": "Skill",
-      "amount": 0.25,
+      "amount": 0.75,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"

@@ -4,7 +4,7 @@
     {
       "type": "skilltree:attribute",
       "attribute": "curios:ring",
-      "id": "33e18663-03cc-4f3e-a3df-6150fbf87609",
+      "id": "8f9362fe-9f1a-4553-b02b-77a54259591a",
       "name": "Skill",
       "amount": 1.0,
       "operation": 0,
@@ -12,17 +12,15 @@
         "type": "skilltree:none"
       },
       "player_condition": {
-        "attribute": "minecraft:generic.armor",
-        "max": 25.0,
-        "type": "skilltree:attribute_value"
+        "type": "skilltree:none"
       }
     },
     {
       "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:spell_power",
-      "id": "9da46f77-aeec-4bea-aa6f-40d8c0fae89f",
+      "attribute": "minecraft:generic.armor",
+      "id": "8063afd3-bc1b-4a94-b67c-05b22fc54c00",
       "name": "Skill",
-      "amount": 0.3,
+      "amount": -0.1,
       "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"

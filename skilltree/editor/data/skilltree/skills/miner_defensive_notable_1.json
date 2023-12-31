@@ -3,30 +3,17 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:mana_regen",
-      "id": "9ec6fe17-4676-458a-8e1b-d11547db3ac4",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "73a3a1a7-8df4-4959-b3f9-2a1184b86e6e",
       "name": "Skill",
-      "amount": 0.25,
-      "operation": 1,
+      "amount": 0.05,
+      "operation": 2,
       "player_multiplier": {
         "type": "skilltree:none"
       },
       "player_condition": {
         "min": 0.75,
         "type": "skilltree:health_percentage"
-      }
-    },
-    {
-      "type": "skilltree:crafted_item_bonus",
-      "item_condition": {
-        "potion_type": "beneficial",
-        "type": "skilltree:potion"
-      },
-      "item_bonus": {
-        "effect": "irons_spellbooks:instant_mana",
-        "duration": 0,
-        "amplifier": 5,
-        "type": "skilltree:food_effect"
       }
     }
   ],

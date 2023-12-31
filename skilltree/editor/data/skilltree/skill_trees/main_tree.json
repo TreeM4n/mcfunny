@@ -588,7 +588,14 @@
     "skilltree:new_skill_1",
     "skilltree:new_skill_2",
     "skilltree:new_skill_4",
-    "skilltree:new_skill_3"
+    "skilltree:new_skill_3",
+    "skilltree:new_skill_5",
+    "skilltree:new_skill_6",
+    "skilltree:new_skill_7",
+    "skilltree:new_skill_8",
+    "skilltree:new_skill_9",
+    "skilltree:new_skill_10",
+    "skilltree:new_skill_11"
   ],
   "id": "skilltree:main_tree"
 }

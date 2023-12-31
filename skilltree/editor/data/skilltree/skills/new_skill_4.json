@@ -1,6 +1,11 @@
 {
   "id": "skilltree:new_skill_4",
-  "bonuses": [],
+  "bonuses": [
+    {
+      "type": "skilltree:command",
+      "command": "skilltree points add @p 1"
+    }
+  ],
   "connectedSkills": [],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/gateway.png",

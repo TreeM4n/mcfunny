@@ -1,22 +1,6 @@
 {
   "id": "skilltree:miner_defensive_crafting_keystone_1",
-  "bonuses": [
-    {
-      "type": "skilltree:attribute",
-      "attribute": "obscure_api:regeneration",
-      "id": "bf9e2e14-5b50-4248-9be1-d9edaac72be0",
-      "name": "Skill",
-      "amount": 0.001,
-      "operation": 1,
-      "player_multiplier": {
-        "attribute": "irons_spellbooks:max_mana",
-        "type": "skilltree:attribute_value"
-      },
-      "player_condition": {
-        "type": "skilltree:none"
-      }
-    }
-  ],
+  "bonuses": [],
   "connectedSkills": [],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/keystone.png",

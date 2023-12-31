@@ -4,9 +4,9 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:spell_power",
-      "id": "96e154e9-f030-446e-beb4-f0230bc2d8b4",
+      "id": "7f7dd9d9-eb5b-442f-a5ca-1027e1b5e8d1",
       "name": "Skill",
-      "amount": 0.075,
+      "amount": 0.015,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"

@@ -4,7 +4,7 @@
     {
       "type": "skilltree:player_sockets",
       "item_condition": {
-        "weapon_type": "ranged",
+        "weapon_type": "bow",
         "type": "skilltree:weapon"
       },
       "sockets": 1

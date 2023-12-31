@@ -4,10 +4,10 @@
     {
       "type": "skilltree:attribute",
       "attribute": "irons_spellbooks:max_mana",
-      "id": "9585f37b-3970-40f6-a25b-13a1da17ff44",
+      "id": "e89e09ad-6f7c-4af0-ac74-8b4bec59794a",
       "name": "Skill",
-      "amount": 0.05,
-      "operation": 2,
+      "amount": 10.0,
+      "operation": 0,
       "player_multiplier": {
         "type": "skilltree:none"
       },

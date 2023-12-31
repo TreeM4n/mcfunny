@@ -28,6 +28,20 @@
       "target_condition": {
         "type": "skilltree:none"
       }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "epicfight:weight",
+      "id": "16e499ca-129e-4d1f-9f78-0c92e186381e",
+      "name": "Skill",
+      "amount": 0.25,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [
