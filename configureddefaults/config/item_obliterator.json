@@ -10,7 +10,8 @@
     "refinedstorage:constructor",
     "refinedstorage:destructor",
     "alexscaves:nuclear_furnace_component",
-    "bosses_of_mass_destruction:levitation_block"
+    "bosses_of_mass_destruction:levitation_block",
+    "aether:shield_of_repulsion"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
