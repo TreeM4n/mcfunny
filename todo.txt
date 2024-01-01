@@ -10,8 +10,6 @@
 
 #quest 
 
- - monster hunter achievement gives sidestep skill
-
 #skilltree
 
  - archer gets stamina + regen,  put more crafted quiver arrow slots somewhere
@@ -22,4 +20,7 @@
 - enchanter 100% cucken stattdessen armor pro enchant und dmg pro enchant usw
 
 
-Easy Anvils ist immer noch weird mit Apotheosis
+#stuff
+
+- change iron plate gegen quartz iron
+- change creative flight
