@@ -10,6 +10,7 @@
 !/skilltree
 !/shaderpacks
 !todo.txt
+!/servermods
 
 # einige Ordner wieder ignorieren
 /mods/.connector
