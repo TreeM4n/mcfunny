@@ -388,5 +388,35 @@
     "healthmultiply": 1,
     "healthadd": 12900,
     "damagemultiply": 3
+  },
+  {
+    "mob": [
+      "aether:slider"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 2700,
+    "damagemultiply": 2
+  },
+  {
+    "mob": [
+      "aether:sun_spirit"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 1,
+    "damagemultiply": 5
+  },
+  {
+    "mob": [
+      "aether:valkyrie_queen"
+    ],
+    "when": "finalize",
+    "result": "allow",
+    "healthmultiply": 1,
+    "healthadd": 9800,
+    "damagemultiply": 2.5
   }
 ]
