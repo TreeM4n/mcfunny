@@ -203,6 +203,71 @@
 			x: -3.0d
 			y: -5.0d
 		}
+		{
+			id: "18F3C85F303370DE"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "7547BC29925DCFC1"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "396B318813B2C594"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "aether:valkyrie_queen"
+				icon: {
+					Count: 1b
+					id: "aether:valkyrie_helmet"
+					tag: {
+						Damage: 0
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				id: "4B989DC191520CEF"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			id: "4BDA1E445ABCB0B0"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "5F1EE02B042A7447"
+					table_id: 86177905300071866L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "38A13BA96B31C330"
+					table_id: 1082676893625130880L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "aether:sun_spirit"
+				icon: "aether:sun_altar"
+				id: "0AF5E63C1C921879"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
 	]
 	title: "Tier II"
 }

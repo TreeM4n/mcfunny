@@ -339,6 +339,34 @@
 			x: 3.0d
 			y: -2.5d
 		}
+		{
+			id: "17DA60F4F1FAB71A"
+			rewards: [
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "01312F7DBA45BF46"
+					table_id: 7364834410310474055L
+					type: "loot"
+				}
+				{
+					auto: "enabled"
+					exclude_from_claim_all: true
+					id: "750347076E8A0476"
+					table_id: 7405317625688955216L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				entity: "aether:slider"
+				icon: "aether:carved_stone"
+				id: "7CDBD789374A3F0B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
 	]
 	title: "Tier I"
 }
