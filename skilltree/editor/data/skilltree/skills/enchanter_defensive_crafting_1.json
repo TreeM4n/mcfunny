@@ -2,18 +2,11 @@
   "id": "skilltree:enchanter_defensive_crafting_1",
   "bonuses": [
     {
-      "type": "skilltree:attribute",
-      "attribute": "irons_spellbooks:cooldown_reduction",
-      "id": "739035a0-608e-4804-808f-be6a0d09e273",
-      "name": "Skill",
-      "amount": 0.05,
-      "operation": 1,
-      "player_multiplier": {
-        "type": "skilltree:none"
+      "type": "skilltree:enchantment_amplification",
+      "enchantment_condition": {
+        "type": "skilltree:armor"
       },
-      "player_condition": {
-        "type": "skilltree:none"
-      }
+      "chance": 0.1
     }
   ],
   "connectedSkills": [
