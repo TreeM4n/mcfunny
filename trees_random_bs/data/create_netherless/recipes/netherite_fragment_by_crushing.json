@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:iron_sheet"
+      "item": "refinedstorage:quartz_enriched_iron"
     }
   ],
   "results": [
