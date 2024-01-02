@@ -4,10 +4,10 @@
     {
       "type": "skilltree:attribute",
       "attribute": "attributeslib:mining_speed",
-      "id": "283ddc4e-8a51-450d-85fa-e32bc6a9cb05",
+      "id": "cb53595d-55f4-49da-bfc9-cc4387829dbb",
       "name": "SkillBonus",
       "amount": 0.1,
-      "operation": 0,
+      "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
       },
