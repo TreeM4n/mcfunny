@@ -35,9 +35,10 @@
   "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
   "iconTexture": "skilltree:textures/icons/miner_defensive_crafting_keystone_1.png",
   "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "title": "Mage broken please nerf",
   "titleColor": "",
-  "positionX": -243.68129,
-  "positionY": 248.0383,
+  "positionX": -243.68,
+  "positionY": 248.04,
   "buttonSize": 24,
   "isStartingPoint": false
 }

@@ -32,10 +32,10 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.max_health",
-      "id": "388dd84b-8ba9-44be-a613-668214e66083",
+      "id": "7fede3c8-5cd9-4c0e-b373-0358c0a0b773",
       "name": "Skill",
       "amount": -0.2,
-      "operation": 0,
+      "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
       },
