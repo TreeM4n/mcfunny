@@ -2,18 +2,16 @@
   "id": "skilltree:miner_life_notable_1",
   "bonuses": [
     {
-      "type": "skilltree:attribute",
-      "attribute": "minecraft:generic.max_health",
-      "id": "73c3a45e-bbcf-4cf8-8fba-5f2ebd24a16e",
-      "name": "SkillBonus",
-      "amount": 0.01,
-      "operation": 0,
-      "player_multiplier": {
-        "attribute": "irons_spellbooks:max_mana",
-        "type": "skilltree:attribute_value"
+      "type": "skilltree:crafted_item_bonus",
+      "item_condition": {
+        "potion_type": "beneficial",
+        "type": "skilltree:potion"
       },
-      "player_condition": {
-        "type": "skilltree:none"
+      "item_bonus": {
+        "effect": "irons_spellbooks:instant_mana",
+        "duration": 0,
+        "amplifier": 2,
+        "type": "skilltree:food_effect"
       }
     }
   ],

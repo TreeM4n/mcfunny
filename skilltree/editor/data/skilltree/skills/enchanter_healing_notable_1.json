@@ -3,20 +3,20 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:life_on_block",
-      "id": "5bd6fa27-80ea-464a-8b18-363ed38c52c7",
+      "attribute": "minecraft:generic.attack_damage",
+      "id": "21950b6b-41be-45b5-bb18-e5c097e5cc67",
       "name": "SkillBonus",
-      "amount": 0.25,
-      "operation": 0,
+      "amount": 0.15,
+      "operation": 1,
       "player_multiplier": {
-        "item_condition": {
-          "armor_type": "shield",
-          "type": "skilltree:armor"
-        },
-        "type": "skilltree:enchants_amount"
+        "type": "skilltree:none"
       },
       "player_condition": {
-        "type": "skilltree:none"
+        "item_condition": {
+          "weapon_type": "any",
+          "type": "skilltree:weapon"
+        },
+        "type": "skilltree:dual_wielding"
       }
     }
   ],

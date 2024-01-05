@@ -5,6 +5,21 @@
       "type": "skilltree:gained_experience",
       "multiplier": 0.5,
       "experience_source": "fishing"
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "id": "39768ff5-01b2-4dad-b7ec-521d53985be0",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "attribute": "minecraft:generic.luck",
+        "type": "skilltree:attribute_value"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [],

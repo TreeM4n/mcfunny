@@ -3,8 +3,8 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "attributeslib:crit_chance",
-      "id": "e7daeeb1-92f5-400b-a570-31d35c502d48",
+      "attribute": "attributeslib:crit_damage",
+      "id": "1f805037-a8dd-47e5-843c-098cd020398a",
       "name": "Skill",
       "amount": 0.075,
       "operation": 1,

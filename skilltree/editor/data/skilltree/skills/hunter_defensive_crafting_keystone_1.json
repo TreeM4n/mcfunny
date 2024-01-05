@@ -4,7 +4,7 @@
     {
       "type": "skilltree:player_sockets",
       "item_condition": {
-        "armor_type": "helmet",
+        "armor_type": "boots",
         "type": "skilltree:armor"
       },
       "sockets": 1

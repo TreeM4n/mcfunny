@@ -3,7 +3,7 @@
   "bonuses": [
     {
       "type": "skilltree:damage",
-      "chance": 0.05,
+      "chance": 0.03,
       "operation": 1,
       "player_multiplier": {
         "type": "skilltree:distance_to_target"

@@ -6,6 +6,21 @@
       "chance": 0.15,
       "multiplier": 2.0,
       "loot_type": "mobs"
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:arrow_damage",
+      "id": "315d62aa-4e45-49e8-b9d7-91a04f6cbb82",
+      "name": "Skill",
+      "amount": 0.03,
+      "operation": 1,
+      "player_multiplier": {
+        "attribute": "skilltree:evasion",
+        "type": "skilltree:attribute_value"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
     }
   ],
   "connectedSkills": [],

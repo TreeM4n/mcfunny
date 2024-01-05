@@ -3,8 +3,8 @@
   "bonuses": [
     {
       "type": "skilltree:attribute",
-      "attribute": "skilltree:life_on_block",
-      "id": "5133baa3-7a55-42a4-b046-164fe5433832",
+      "attribute": "skilltree:life_per_hit",
+      "id": "2fe97582-b3b0-440b-b77f-4d0da2f63f94",
       "name": "SkillBonus",
       "amount": 0.25,
       "operation": 0,

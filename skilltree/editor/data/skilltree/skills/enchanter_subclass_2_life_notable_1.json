@@ -14,6 +14,40 @@
       "player_condition": {
         "type": "skilltree:none"
       }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "id": "5392d8e8-bc78-49d7-a7ac-bf02b4f3e404",
+      "name": "Skill",
+      "amount": 2.0,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "type": "skilltree:none"
+        },
+        "type": "skilltree:has_item_in_hand"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "id": "9d15cf12-fe61-42be-a212-7665b2910a6c",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "item_condition": {
+          "type": "skilltree:pickaxe"
+        },
+        "type": "skilltree:has_item_in_hand"
+      }
     }
   ],
   "connectedSkills": [],

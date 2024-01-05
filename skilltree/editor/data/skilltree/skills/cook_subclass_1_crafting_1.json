@@ -4,10 +4,10 @@
     {
       "type": "skilltree:attribute",
       "attribute": "attributeslib:crit_chance",
-      "id": "3a3e2dbf-ec64-446f-b766-fb1b13c2ce9b",
+      "id": "c7f32292-2d1e-4e37-b5c8-a1bed4ccde91",
       "name": "Skill",
-      "amount": 0.01,
-      "operation": 0,
+      "amount": 0.02,
+      "operation": 1,
       "player_multiplier": {
         "type": "skilltree:none"
       },

@@ -1,6 +1,35 @@
 {
   "id": "skilltree:miner_defensive_crafting_keystone_1",
-  "bonuses": [],
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.luck",
+      "id": "86701f12-c9ef-4210-80ec-5ec2687d6600",
+      "name": "Skill",
+      "amount": 0.2,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.luck",
+      "id": "f2665b7b-b85f-4736-b50b-5156516eaa43",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
   "connectedSkills": [],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/keystone.png",

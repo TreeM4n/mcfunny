@@ -4,7 +4,7 @@
     {
       "type": "skilltree:enchantment_amplification",
       "enchantment_condition": {
-        "type": "skilltree:weapon"
+        "type": "skilltree:none"
       },
       "chance": 0.1
     }
