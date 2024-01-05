@@ -18,11 +18,12 @@
     {
       "type": "skilltree:crafted_item_bonus",
       "item_condition": {
-        "type": "skilltree:food"
+        "potion_type": "any",
+        "type": "skilltree:potion"
       },
       "item_bonus": {
         "effect": "irons_spellbooks:instant_mana",
-        "duration": 0,
+        "duration": 1,
         "amplifier": 0,
         "type": "skilltree:food_effect"
       }

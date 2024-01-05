@@ -1,14 +1,30 @@
 {
   "id": "skilltree:miner_defensive_crafting_keystone_1",
-  "bonuses": [],
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "a86ccc6d-e253-45d2-88a7-ecb60dcdd431",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
   "connectedSkills": [],
   "connectedAsGateways": [],
   "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
   "iconTexture": "skilltree:textures/icons/miner_defensive_crafting_keystone_1.png",
   "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "title": "Mage broken please nerf",
   "titleColor": "",
-  "positionX": -243.68129,
-  "positionY": 248.0383,
+  "positionX": -243.68,
+  "positionY": 248.04,
   "buttonSize": 24,
   "isStartingPoint": false
 }
