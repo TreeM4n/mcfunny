@@ -18,7 +18,7 @@
     {
       "type": "skilltree:attribute",
       "attribute": "minecraft:generic.attack_damage",
-      "id": "5392d8e8-bc78-49d7-a7ac-bf02b4f3e404",
+      "id": "934a8fe3-95ac-4eee-9d2a-f77db27919da",
       "name": "Skill",
       "amount": 2.0,
       "operation": 1,
@@ -27,7 +27,7 @@
       },
       "player_condition": {
         "item_condition": {
-          "type": "skilltree:none"
+          "type": "skilltree:pickaxe"
         },
         "type": "skilltree:has_item_in_hand"
       }
