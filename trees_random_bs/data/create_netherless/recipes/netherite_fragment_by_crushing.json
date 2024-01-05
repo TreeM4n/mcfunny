@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "refinedstorage:quartz_enriched_iron"
+      "item": "refinedstorage:quartz_enriched_iron_block"
     }
   ],
   "results": [

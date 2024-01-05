@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1",
+    "4",
+    "7"
+  ],
+  "key": {    
+    "1": {
+      "item": "minecraft:flint"
+    },
+    "4": {
+      "tag": "forge:rods"
+    },
+    "7": {
+      "tag": "minecraft:leaves"
+    }
+  },
+  "result": {
+    "item": "minecraft:arrow",
+    "count": 2
+  }
+}

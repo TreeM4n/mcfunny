@@ -23,7 +23,18 @@
 						Count: 1b
 						id: "epicfight:skillbook"
 						tag: {
-							skill: "epicfight:step"
+							skill: "epicfight:roll"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B05616D50715D97"
+					item: {
+						Count: 1b
+						id: "epicfight:skillbook"
+						tag: {
+							skill: "epicfight:guard"
 						}
 					}
 					type: "item"
@@ -91,7 +102,7 @@
 					}
 				}
 				id: "39DF18DA9FA17C3F"
-				title: "Dont get aything, ok?"
+				title: "Get Mastermode serverside, does not stack, k?"
 				type: "toast"
 			}]
 			tasks: [{
@@ -118,6 +129,32 @@
 				type: "advancement"
 			}]
 			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "168D8578F72D5B20"
+			rewards: [{
+				description: ""
+				icon: {
+					Count: 1b
+					id: "minecraft:firework_rocket"
+					tag: {
+						Fireworks: {
+							Flight: 1b
+						}
+					}
+				}
+				id: "07AFC05981700EE4"
+				title: "Get Mastermode serverside, does not stack, k?"
+				type: "toast"
+			}]
+			tasks: [{
+				dimension: "aether:the_aether"
+				icon: "minecraft:glowstone"
+				id: "13A8B9D3028A71D4"
+				type: "dimension"
+			}]
+			x: 6.0d
 			y: 0.0d
 		}
 	]
