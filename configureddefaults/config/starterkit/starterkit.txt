@@ -8,7 +8,7 @@
 2 : '{Count:8b,id:"farmersdelight:fish_stew"}',
 3 : '{Count:1b,id:"paraglider:paraglider"}',
 4 : '{Count:1b,id:"sophisticatedbackpacks:backpack"}',
-5 : '',
+5 : '{Count:1b,id:"solapplepie:lunchbox"}',
 6 : '',
 7 : '',
 8 : '',
